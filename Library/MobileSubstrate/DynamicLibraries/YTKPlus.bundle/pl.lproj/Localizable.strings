@@ -1,0 +1,574 @@
+/* created on 10.12.2025 */
+/* by marcinmajsc */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "Rozszerzenie aktywne";
+"GLOBAL_ENABLED_SWITCH" = "Stuknij przycisk w prawym górnym rogu, aby zastosować zmiany.";
+
+/* downloading global switch */
+"DOWNLOADING" = "Włącz funkcję pobierania";
+"glob_overlay_button" = "Przyciski pokazane w odtwarzaczu.";
+"overlay_button_disc" = "Pobieranie, brak reklam, odtwarzanie w tle itp.";
+"first_cleaner_disc" = "Przytrzymaj ikonę koła zębatego przez 3 sekundy, aby wyświetlić opcje czyszczenia!";
+
+"fix_playback_issue" = "🔧 Napraw odtwarzanie i odzyskaj konto";
+"fix_playback_issue_disc" = "🎯 Naprawia błędy \"Coś poszło nie tak\" i przerwy.";
+"fix_playback_issue_disc_footer" = "✅ Testowane na wielu kontach — powrót do normy po kilku dniach.\n\n📍 Najlepsze wyniki:\n• Włącz lokalizację\n• NIE używaj VPN\n\nKluczowe kroki.\n\n⚠️ Wyłącza pobieranie...\n\n⚠️ Używaj tylko przy problemach.";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "Menedżer pobierania";
+"VIDEO_TAB_BAR" = "Wideo";
+"AUDIO_TAB_BAR" = "Audio";
+"SHORTS_TAB_BAR" = "Shorts";
+
+/* Startup page section */
+"STARTUP_PAGE" = "Domyślna strona startowa";
+"DEFAULT_PAGE" = "Strona główna";
+
+"HOME" = "Strona główna";
+"EXPLORE" = "Eksploruj";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "Subskrypcje";
+"LIBRARY" = "Biblioteka";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "Ustawienia ogólne & ";
+"overlay_player" = "Ustawienia odtwarzacza";
+"speed_index" = "Prędkość odtwarzania";
+"default_speed_index" = "Domyślna prędkość odtwarzania";
+"default_speed_index_disc" = "Utrzymuje wybraną prędkość bez konfliktu z kontrolkami nakładki.";
+"pip_player" = "Odtwarzanie w PiP";
+"short_player" = "Odtwarzacz Shorts";
+"loop_toggle" = "Dodaj przełącznik pętli";
+
+"yt_video_quality_wifi" = "Jakość wideo YT przez Wi‑Fi";
+"yt_video_quality_celluar" = "Jakość wideo YT w sieci komórkowej";
+"auto" = "Auto";
+"yt_speed_playback" = "Domyślna prędkość odtwarzania";
+"normal" = "Normalna";
+"default" = "Domyślne";
+
+"image" = "Zapisz obraz";
+"information" = "Kopiuj informacje";
+"copy_title" = "Kopiuj tytuł";
+"copy_describtion" = "Kopiuj opis";
+"copied" = "Skopiowano do schowka";
+
+"save_pfP" = "Zapisz zdjęcie profilowe";
+"copy_ptext" = "Kopiuj tekst posta";
+"save_img" = "Zapisz obraz";
+"copy_comment" = "Kopiuj komentarz";
+"pip_mode" = "Odtwarzaj w zewnętrznym odtwarzaczu";
+"ios_system_player" = "Odtwarzacz iOS";
+"infuse_player" = "Odtwarzacz Infuse";
+"vlc_player" = "Odtwarzacz VLC";
+"infuse_not_installed" = "Infuse nie jest zainstalowany";
+"vlc_not_installed" = "VLC nie jest zainstalowany";
+"pip_mode_desc" = "Aby używać PiP, włącz ‘Odtwarzanie w tle’ w ustawieniach.";
+"mini_player2" = "Miniodtwarzacz";
+"floating_mini_player" = "Pływający miniodtwarzacz";
+
+/* backup and restore */
+"backup_and_restore" = "Kopia zapasowa i przywracanie";
+"cretae_a_backup" = "Utwórz kopię zapasową";
+"create_a_backup_disc" = "Eksportuje wszystkie pobrane filmy i pliki audio do aplikacji Pliki.";
+"restore_backup" = "Przywróć kopię zapasową";
+"restore_backup_disc" = "Przywracaj kopie zapasowe bezpośrednio z aplikacji Pliki.";
+"backup_prepared" = "Przygotowywanie kopii zapasowej...";
+"create_failed" = "Kopia zapasowa nie powiodła się";
+"failed_create_disc" = "Nie można utworzyć kopii zapasowej. Spróbuj ponownie.";
+"restoring_backup" = "Przywracanie kopii zapasowej...";
+"restore_complete" = "Przywracanie zakończone";
+"restore_complete_disc" = "Twoja biblioteka YTKPlus została pomyślnie przywrócona.";
+"restore_failed_disc" = "Przywracanie kopii zapasowej nie powiodło się. Spróbuj ponownie.";
+"restore_failed" = "Przywracanie nie powiodło się";
+"restore_backup_confirm" = "Przywróć";
+"create" = "Utwórz";
+"create_backup" = "Czy chcesz utworzyć kopię zapasową?";
+"restore_backup_confirm_disc" = "Czy chcesz przywrócić plik YTKPlus_Backup.zip?\nTej czynności nie można cofnąć!";
+"invalid_backup_file" = "Nieprawidłowy plik kopii zapasowej";
+"invalid_backup_file_disc" = "Wybierz plik YTKPlus_Backup.zip.";
+"Backup_saved" = "Kopia zapasowa została zapisana w aplikacji Pliki.";
+"Backup_not_saved" = "Uwaga: kopia zapasowa nie została zapisana w aplikacji Pliki.";
+
+/* import Media */
+"import_media" = "Importuj multimedia";
+"import_media_disc" = "Importuj filmy i pliki audio do YTKPlus. Z aplikacji Pliki można wybrać wiele plików, w tym miniatury lub okładki.";
+"choose_media_type" = "Wybierz typ mediów do importu";
+"successfully_imported_files" = "Pomyślnie zaimportowano pliki: %@";
+"failed_to_import_files" = "Nie udało się zaimportować plików: %@";
+"import_result" = "Wynik importu";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "Zachowanie sponsora";
+"SB_SKIP" = "Pomiń";
+"SB_ASK" = "Zapytaj";
+"sub_value" = "Czas alertu: %.lf";
+/* popup */
+"UNSKIP" = "Cofnij pominięcie";
+"SKIP" = "Pomiń";
+"SEGMENT_SKIPPED" = "Segment sponsora został pominięty";
+"FOUND_SEGMENT" = "Wykryto segment sponsora";
+"AudioNotificationOnSkip" = "Odtwarzaj dźwięk przy pominięciu";
+
+/* shorts section */
+"short_fullscreen" = "Pełny ekran";
+"short_auto_skip" = "Automatycznie pomijaj Shorts";
+"USE_PREM_LOGO" = "Użyj logo Premium";
+"cast_confirm" = "Potwierdzenie przesyłania";
+"video_available" = "Wideo dostępne";
+"videos_available" = "Filmy dostępne";
+"audio_available" = "Audio dostępne";
+"audios_available" = "Pliki audio dostępne";
+"short_available" = "Short dostępny";
+"shorts_available" = "Shorty dostępne";
+
+/* general section */
+"VIDEO_PLAYER" = "Opcje odtwarzacza wideo";
+"OVERLAY_OPTIONS" = "Opcje odtwarzacza";
+"STREAM_OPTIONS" = "Opcje strumienia";
+"IPAD_OPTIONS" = "Opcje iPada";
+"NAVIGATION_BAR" = "Opcje paska nawigacji";
+"SHORTS_OPTION" = "Opcje Shorts";
+"DOWNLOAD_OPTIONS" = "Dodatkowe opcje pobierania";
+"TAB_BAR_OPTIONS" = "Opcje paska kart";
+"MISCELLANEOUS" = "Różne";
+
+/* general section switch */
+"OLED_DARK_MODE" = "Tryb ciemny OLED";
+"PLAY_IN_BACKGROUND" = "Odtwarzaj w tle";
+"NO_ADVERTISMENT" = "Usuń reklamy";
+"NO_AGE_RESTRICTION" = "Omijaj ograniczenia wiekowe";
+"HIDE_YT_SHORTS" = "Ukryj Shorts z kanału";
+"DISABLE_CAPTIONS" = "Wyłącz napisy";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "Ekran odtwarzania wideo";
+"HIDE_SUGGESTED_VIDEO" = "Ukryj sugerowane filmy";
+"COMMENTS" = "Komentarze";
+"HIDE_COMMENTS" = "Ukryj komentarze";
+"HIDE_COMMENTS_PREVIEW" = "Ukryj podgląd komentarzy";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Usuwa komentarze spoilerowe.";
+"HIDE_COMMENTS_GUIDLINES" = "Ukryj wytyczne do komentarzy";
+"HIDE_COMMUNITY_TEXT_INFO" = "Ukryj tekst społeczności na górze.";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "Odtwarzacz";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Pokaż pasek statusu w nakładce";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Nieobsługiwane na urządzeniach z notchem ani w stylu iPada.";
+"DISABLE_DOUBLE_TAP" = "Wyłącz podwójne stuknięcie";
+"DISABLE_CONTINUE_WATCHING" = "Wyłącz kontynuowanie oglądania";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Pojawia się podczas oglądania długich filmów.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Ukryj szybkie działania";
+"HIDE_PLAYERBAR_WAVE" = "Ukryj fale na osi czasu";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Ukrywa histogram oglądalności na osi czasu.";
+"SWIPE_TO_HIDE_PANEL" = "Przesuń, aby ukryć panel";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Przeciągnij z lewej do prawej na panelu pełnoekranowym.";
+"DISABLE_PINCH_TO_ZOOM" = "Wyłącz powiększanie gestem";
+"MEDIA_CONTROLLER" = "Kontroler odtwarzacza";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Zawsze pokazuj przycisk Odtwórz/Pauza";
+"SHOW_MEDIA_CONTROLLER" = "Zawsze pokazuj wszystkie elementy sterujące";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Ukryj ciemne tło nakładki";
+"KEEP_CAPTION_ON" = "Zachowaj napisy";
+"KEEP_CAPTION_ON_INFO" = "Automatycznie włączaj napisy podczas odtwarzania.";
+"PREVIUOS_AND_NEXT_BUTTON" = "Przyciski Poprzedni i Następny";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Wyłącz Poprzedni i Następny";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Kompaktowe przyciski Poprzedni i Następny";
+"PLAYER_BAR_NEXT_BUTTON" = "Dodaj przycisk Następny obok czasu";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Ukryj Poprzedni i Następny";
+"HIDE_BACK_BUTTON_SHADOW" = "Ukryj cień przycisku";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Zastąp przewijaniem do przodu/do tyłu";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Zamienia przyciski na szybkie przewijanie do przodu i do tyłu.";
+"HIDE_ITEMS" = "Ukryj elementy";
+"HIDE_VOLUME_BAR" = "Ukryj pasek głośności";
+"HIDE_VOLUME_BAR_INFO" = "Ukrywa biały pasek głośności w trybie poziomym.";
+"HIDE_INFO_CARD" = "Ukryj kartę informacji";
+"HIDE_WATER_MARK" = "Ukryj znak wodny";
+"HIDE_AUTOPLAY_BUTTON" = "Ukryj przycisk Autoodtwarzania";
+"HIDE_CAPTIONS_BUTTON" = "Ukryj przycisk napisów";
+"HIDE_PLAY_PUASE" = "Ukryj Odtwórz/Pauza";
+"HIDE_MORE_GEAR_ICON" = "Ukryj ikonę Więcej/Ustawienia";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Ukryj przycisk czatu na żywo";
+"HIDE_CAST_BUTTON" = "Ukryj przycisk Cast";
+"HIDE_ENDSCREEN_VIDEOS" = "Ukryj filmy na ekranie końcowym";
+"HIDE_RELATED_VIDEOS" = "Ukryj powiązane filmy";
+"HIDE_LANDSCAPE_COMMENTS" = "Wyłącz komentarze w trybie poziomym";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Całkowicie wyłącza sekcję komentarzy w trybie poziomym.";
+"SHOW_PROGRESS_BAR" = "Zachowaj widoczny pasek postępu";
+"SHOW_PROGRESS_BAR_INFO" = "Wyłącza przesuwanie dla powiązanych filmów.";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "Włącz tryb klasycznego wyboru jakości";
+"LEGACY_QUALITY_MODE_INFO" = "Przywraca stare menu wyboru jakości.";
+"PICTURE_IN_PICTURE_PIP" = "Obraz w obrazie (PiP)";
+"ENABLE_PIP" = "Włącz PiP";
+"ENABLE_PIP_INFO" = "Dodaje ikonę PiP w nakładce.";
+"DOUBLE_TAP" = "Opcje podwójnego stuknięcia";
+"CUSTOM_SKIP_DURATION" = "Własny czas przewijania";
+"VALUE_CHANGES_JB" = "Sekundy: %.lf";
+"VALUE_CHANGES" = "Sekundy: 10";
+"STREAMING_SECTION" = "Strumieniowanie";
+"PLAYBACK_SPEED" = "Dodatkowe prędkości odtwarzania";
+"PLAYBACK_SPEED_INFO" = "Nakładka → Ustawienia → Prędkość odtwarzania";
+"DISABLE_AUTOPLAY_VIDEOS" = "Wyłącz automatyczne odtwarzanie";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Odtwarzaj filmy HD przez 3G/4G/5G";
+
+/* iPad section */
+"IPAD_SECION" = "Tryb iPada";
+"IPADOS_MODE" = "Włącz tryb iPadOS";
+"DISABLE_DRAG_AND_DROP" = "Wyłącz przeciąganie i upuszczanie";
+"HIDE_CHANNEL_CIRCLES" = "Ukryj ikony kanałów";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Subskrypcje → Ikony kanałów pod paskiem nawigacji.";
+"MINI_PLAYER_ASPECT_RATIO" = "Współczynnik proporcji miniodtwarzacza";
+"USE_ASPECT_RATIO" = "Użyj pełnego formatu";
+"USE_ASPECT_RATIO_INFO" = "Nieobsługiwane dla miniodtwarzacza w stylu iPada.";
+"MINI_PLAYER" = "Miniodtwarzacz w stylu iPada";
+"REDEFIND_MINI_PLAYER" = "Miniodtwarzacz na środku";
+"MINI_PLAYER_IPAD_MODE" = "Miniodtwarzacz po prawej";
+
+/* navbar section */
+"STATUS_BAR" = "Pasek statusu";
+"HIDE_STATUS_BAR" = "Ukryj pasek statusu";
+"CHANNEL_SECTIONS" = "Sekcja kanału";
+"STICKY_NAV_BAR" = "Ukryj kategorie pod paskiem";
+"SHOW_YTKPLUS_ICON" = "Pokaż ikonę YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "Ukryj elementy";
+"SHOW_YTKPlus_Icon" = "Pokaż ikonę YTKPlus";
+"HIDE_YT_LOGO" = "Ukryj logo YouTube";
+"HIDE_NOTIFICATIONS_BILL" = "Ukryj powiadomienia";
+"HIDE_ACCOUNT" = "Ukryj konto";
+"HIDE_SEARCH" = "Ukryj wyszukiwanie";
+"HIDE_CAST_BUTTON" = "Ukryj przycisk Cast";
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "Włącz dolny pasek postępu";
+"HIDE_ELEMNTS" = "Ukryj elementy";
+"HIDE_PAUSE_CARD" = "Ukryj kartę pauzy";
+"HIDE_LIKE_BUTTON" = "Ukryj przycisk Lubię to";
+"HIDE_DISLIKE_BUTTON" = "Ukryj przycisk Nie lubię";
+"HIDE_COMMENTS_BUTTON" = "Ukryj przycisk komentarzy";
+"HIDE_SHARE_BUTTON" = "Ukryj przycisk udostępniania";
+"HIDE_REMIX_BUTTON" = "Ukryj przycisk Remix";
+"HIDE_AVATAR_BUTTON" = "Ukryj przycisk avatara";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "Dodatkowe opcje pobierania";
+"LOCAL_DOWNLOADING" = "Włącz lokalne pobieranie";
+"LOCAL_DOWNLOADING_INFO" = "Przytrzymaj film, aby otworzyć menu pobierania.";
+"HIDE_DOWNLOAD_BUTTON" = "Ukryj przycisk pobierania";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "Ukrywa domyślny przycisk pobierania YouTube.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Wyłącz wygasające pobrania";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Dla filmów pobranych narzędziem YouTube.";
+"DOWNLOAD_SECTION_INFO" = "Uwaga: jeśli pojawia się kilka identycznych jakości, wybierz pierwszą. Lokalnie pobrane pliki trafiają do aplikacji Zdjęcia. Gest przewijania długim naciśnięciem jest wyłączony. Włączenie 4K wyłącza tę funkcję.";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "Pasek kart";
+"TABS_SHRINKED_BUTTOM" = "Zmniejsz zakładki (dół)";
+"TABS_SHRINKED_SMART" = "Zmniejsz zakładki (smart)";
+"DISABLE_CREATE_BUTTON" = "Wyłącz przycisk Utwórz (+)";
+"HIDE_TAB_LABELS" = "Ukryj etykiety zakładek";
+"PREVENT_OPEN_IN_SHORTS" = "Zapobiegaj otwieraniu w Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Zdarza się, gdy YouTube został zamknięty na zakładce Shorts.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Zastąp Shorts zakładką Eksploruj";
+"HIDE_TABS" = "Ukryj zakładki";
+"HIDE_EXPLORE_TAB" = "Ukryj zakładkę Eksploruj";
+"HIDE_SHORTS_TAB" = "Ukryj zakładkę Shorts";
+"HIDE_CREATE_TAB" = "Ukryj zakładkę Utwórz";
+"HIDE_SUBSCRIPTION_TAB" = "Ukryj zakładkę Subskrypcje";
+"HIDE_LIBRARY_TAB" = "Ukryj zakładkę Biblioteka";
+"HIDE_ALL_TAB" = "Ukryj wszystkie zakładki";
+"MAIN_TAB" = "GŁÓWNA";
+"ACTIVE_TABS" = "AKTYWNE KARTY";
+"INACTIVE_TABS" = "NIEAKTYWNE KARTY";
+"CANT_REMOVE" = "Nie można usunąć";
+"CANT_REMOVE_DESC" = "Musisz mieć co najmniej jedną aktywną kartę.";
+"INACTIVE_TABS_TXT" = "%@ (nieaktywna)";
+"TABS_INACTIVE" = "Karty są nieaktywne";
+"TABS_INACTIVE_DESC" = "\"%@\" jest nieaktywna. Najpierw dodaj ją do aktywnych kart.";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "Różne";
+"USE_STOCK_VOLUME_HUD" = "Użyj systemowego wskaźnika głośności";
+"USE_STOCK_VOLUME_HUD_INFO" = "Działa tylko w trybie poziomym.";
+"HIDE_SEARCHED_HISTORY" = "Ukryj historię wyszukiwania";
+"NOT_TOPIC_SECTION" = "Ukryj sekcję tematyczną";
+"HIDE_PREMIUM_POPUP" = "Ukryj wyskakujące okienko Premium";
+"HIDE_YT_UPDATE_POPUP" = "Ukryj wyskakujące okienko aktualizacji YouTube";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Usuwa wymuszone komunikaty o aktualizacji.";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Włącz miniodtwarzacz dla wszystkich filmów";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Używaj miniodtwarzacza nawet dla filmów dla dzieci.";
+"HIDE_HUD_ALERTS" = "Ukryj alerty HUD";
+"HIDE_HUD_ALERTS_INFO" = "Ukrywa wyskakujące alerty, jak potwierdzenia Nie lubię.";
+"CLASSIC_SHARE" = "Klasyczne menu udostępniania";
+"HIDE_LINE_SEPERATOR" = "Ukryj linie oddzielające w bibliotece";
+"ROUND_ALL_VIEW_CORNERS" = "Zaokrąglij wszystkie rogi widoków";
+"DISABLE_DARK_MODE" = "Wyłącz tryb ciemny";
+"HIDE_INCLUDE_PAID_PROMO" = "Ukryj informację o płatnej promocji";
+"DISABLE_RTL" = "Wyłącz języki RTL";
+"OTHERS" = "Strona główna";
+"HIDE_PLAYLIST" = "Ukryj playlistę";
+"PLAYLIST_INFO" = "Styl iPada nie jest obsługiwany.";
+"HIDE_COVID_NEWS" = "Ukryj COVID i wiadomości";
+"COVID_NEWS_INFO" = "Usuwa sekcje COVID i wiadomości z strony głównej.";
+"HIDE_FILTER_TAGS" = "Ukryj filtry tematyczne u góry";
+
+/* global action title */
+"OK" = "OK";
+"YES" = "Tak";
+"NO" = "Nie";
+"ERROR" = "Błąd";
+"loading_pip" = "Ładowanie PiP...";
+"APP_RESTART_REQUIRED" = "Zrestartuj YouTube, aby zastosować zmiany.";
+"FILZA_NOT_INSTALLED_ALERT" = "Ta aplikacja nie jest zainstalowana na Twoim urządzeniu.";
+"NO_DATA" = "Brak pobrań";
+"CANCEL" = "Anuluj";
+"DISMISS" = "Odrzuć";
+"DELETED" = "Usunięto";
+"SAVED" = "Zapisano";
+"SUCCESS" = "Sukces";
+"VIDEO" = "Pobierz wideo";
+"AUDIO" = "Pobierz audio";
+"RENAME" = "Zmień nazwę";
+"RENAME_FILE" = "Zmień nazwę pliku";
+"RENAME_NEW_NAME" = "Wpisz nową nazwę dla pliku:";
+"RENAME_PLACEHOLDER" = "Wpisz nową nazwę wideo";
+"RENAME_PLACEHOLDER_AUDIO" = "Wpisz nową nazwę audio";
+"PLAY" = "Domyślny odtwarzacz";
+"SHARE" = "Udostępnij";
+"VIEW_IN_FILZA" = "Zobacz w Filza";
+"DELETE" = "Usuń";
+"MORE_OPTION" = "Więcej opcji";
+"MAIN_OPTION" = "Główne opcje";
+"DELETE_ALL" = "Usuń wszystko";
+"SAVE_ARTWORK" = "Zapisz grafikę";
+"SAVE_TO_PHOTOS" = "Zapisz do Zdjęć";
+"ARE_YOU_SURE" = "Czy na pewno chcesz usunąć wszystkie elementy?";
+"NOTE" = "Uwaga!";
+"SAVE_FAILED" = "Zapis nie powiódł się!";
+"SAVE_TO_PHOTOS_FAILED" = "Nie udało się zapisać do Zdjęć. Przyznaj aplikacji YouTube dostęp do Zdjęć w Ustawieniach.";
+"DELETING_VIDEO" = "Usunąć wideo?";
+"DELETING_AUDIO" = "Usunąć audio?";
+"AUTO_LANGUAGE" = "Auto";
+"SELECT_LANGUAGE" = "Wybierz język";
+"FAQ" = "FAQ";
+"action_undone" = "Tej czynności nie można cofnąć!";
+
+/* downloading... */
+"toast_downloading" = "Pobieranie...";
+"toast_downloading_audio" = "Pobieranie audio";
+"toast_downloading_video" = "Pobieranie wideo";
+"toast_merging" = "Łączenie...";
+"toast_preparing" = "Przygotowywanie... : 0%";
+"toast_download_cancelled" = "Pobieranie anulowane";
+
+"video_saved" = "✓ Zapisano wideo - %@";
+"video_downloaded" = "🎬 ✓ Pobrano wideo: %@";
+"m4a_smaller" = "🎵 M4A (Audio AAC • Mniejszy)";
+"mp3_larger" = "🎵 MP3 (Uniwersalny • Większy)";
+"audio_saved" = "✓ Dźwięk %@ zapisano jako %@";
+"audio_downloaded" = "🎵 ✓ Dźwięk pobrany (%@)";
+"shorts_downloaded" = "🎬 ✓ Pobrano Shorts";
+"queued" = "📥 W kolejce: ";
+"video_queuad" = "🎬 📥 W kolejce: ";
+"audio_queuad" = "🎵 📥 W kolejce audio: ";
+"starting" = "🔄 Rozpoczynanie: %@";
+"audio_progress" = "🎵 Audio: %@";
+"video_progress" = "🎬 Wideo: %@";
+"converting" = "⚙️ Konwertowanie: %@";
+"merging" = "⚙️ Łączenie: %@";
+"download_cancelled" = "❌ Pobieranie anulowane: %@";
+"quea_cancelled" = "❌ Usunięto z kolejki";
+"cancelled" = "❌ Anulowano: %@";
+
+"loop_disabled" = "🔁 Pętla wyłączona";
+"loop_enabled" = "🔂 Pętla włączona";
+"Auto_Skip" = "Auto‑pomijanie";
+"Exit_Fullscreen" = "Wyjdź z pełnego ekranu";
+
+
+"play_next" = "Odtwórz następny";
+"close" = "Zamknij";
+
+"VIDEO_INFO" = "Informacje o wideo";
+"FILE_SIZE" = "Rozmiar pliku";
+"DURATION" = "Czas trwania";
+"DIMENSIONS" = "Wymiary";
+"BITRATE" = "Przepływność";
+"FRAME_RATE" = "Liczba klatek";
+"CREATED" = "Utworzono";
+"AUDIO_INFO" = "Informacje o audio";
+"FORMAT" = "Format";
+"SAMPLE_RATE" = "Częstotliwość próbkowania";
+"CHANNELS" = "Kanały";
+
+"year_ago" = "%ld rok%@ temu";
+"month_ago" = "%ld miesiąc%@ temu";
+"week_ago" = "%ld tydzień%@ temu";
+"day_ago" = "%ld dzień%@ temu";
+"hour_ago" = "%ld godzina%@ temu";
+"minute_ago" = "%ld minuta%@ temu";
+"s" = "s";
+
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
+"sleep_timer" = "Timer usypiania";
+"time_calculater" = "%ld min";
+"5_min" = "5 minut";
+"10_min" = "10 minut";
+"15_min" = "15 minut";
+"20_min" = "20 minut";
+"30_min" = "30 minut";
+"45_min" = "45 minut";
+"1_hour" = "1 godzina";
+"end_of_track" = "Koniec utworu";
+"min_left" = "%ld min pozostało";
+"sleep_timer_activated" = "Timer uśpienia aktywny – odtwarzanie wstrzymane";
+"custom_time" = "Niestandardowy czas";
+"enter_duration_desc" = "Wprowadź czas trwania (np.: 20m, 1h, 1h 30m, 90)";
+"set" = "Ustaw";
+"invalid_input" = "Nieprawidłowe dane";
+"invalid_input_desc" = "Użyj formatów: 20m, 1h, 1h 30m, 90";
+
+"gestures_control" = "Sterowanie gestami";
+"brightness" = "Jasność";
+"left" = "Lewo";
+"right" = "Prawo";
+"disabled" = "Wyłączone";
+"volume" = "Głośność";
+"hold_to_seek" = "Przytrzymaj, aby przewinąć";
+"seek_duration" = "Czas przewijania";
+"seconds" = "%.0f sekund";
+"volume_brightness_gesture" = "Gesty głośności i jasności";
+"seek_settings" = "Ustawienia przewijania";
+"gestures_config_description" = "Ustaw, która strona kontroluje jasność i głośność.\n\nWskazówki:\n1. W trybie pionowym przesuń w dół po dowolnej stronie odtwarzacza.\n2. W trybie pełnoekranowym przesuń od dolnej krawędzi ze względu na obsługę gestów YouTube.";
+"hold_to_seek_description" = "Przytrzymaj lewą lub prawą stronę, aby ciągle przewijać. Dostosuj czas na krok.";
+"brightness_gesture_left" = "Jasność";
+"gesture_left_side" = "Gest lewej strony";
+"cancel" = "Anuluj";
+"volume_gesture_right" = "Głośność";
+"gesture_right_side" = "Gest prawej strony";
+
+/* icon themes */
+"icon_changed" = "Zmieniono ikonę\ndla \"YouTube\".";
+"select_icon_theme" = "Wybierz motyw ikony";
+"icon_not_available" = "Niestandardowe ikony są niedostępne";
+"icon_not_available_disc" = "Niestandardowe ikony nie są zawarte w tej aplikacji YouTube. Aby zmienić ikonę aplikacji, musisz zainstalować plik IPA.";
+
+/* fake location */
+"fake_location" = "Fałszywa lokalizacja";
+"save" = "Zapisz";
+"location_name" = "Nazwa lokalizacji";
+"enter_location_name" = "Kraj: %@\nWpisz nazwę dla tej lokalizacji";
+"unknown" = "Nieznane";
+"save_location" = "Zapisz lokalizację";
+"getting_location_info" = "Pobieranie informacji o lokalizacji...";
+"loading" = "Ładowanie...";
+"selected_location" = "Wybrana lokalizacja";
+"delete" = "Usuń";
+"saved_location_disc" = "Zarządzaj zapisanymi lokalizacjami i ustaw jedną jako aktywną. Przesuń, aby usunąć dowolny zapis.";
+"enable_fake_location_disc" = "Symuluj niestandardową lokalizację w YouTube zamiast swojej rzeczywistej. Dodaje wygodny przycisk na mapie znajomych, aby szybko przełączać lokalizacje.";
+"SAVED_LOCATIONS" = "ZAPISANE LOKALIZACJE";
+"search_places" = "Szukaj miejsc";
+"select_location" = "Wybierz lokalizację";
+"custom_location" = "Niestandardowa lokalizacja";
+"system_default" = "Domyślny system";
+"current_location" = "Bieżąca lokalizacja";
+"enable_fake_location" = "Włącz fałszywą lokalizację";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Inne projekty";
+"CREDITS" = "Podziękowania";
+"SPECIAL_THANK" = "Specjalne podziękowania";
+"LOCALIZATION" = "Lokalizacje";
+"icon_by" = "Ikona autorstwa";
+"DEVELOPER" = "Deweloper";
+"WELCOM_ALERT" = "Aby zmodyfikować ustawienia, otwórz kartę YTKPlus i stuknij ikonę koła zębatego powyżej.";
+
+/* compatibility... */
+"compatible_legacy_ver" = "Zgodne (starszy iOS)";
+"not_compatible_ver" = "Niezgodne";
+"unknown_ver" = "Nieznane";
+"compatible_ver" = "Zgodne";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Wyczyść wszystkie dane";
+"clear_all_data_disc" = "Spowoduje to usunięcie WSZYSTKICH danych aplikacji, w tym pęku kluczy, ustawień i plików pamięci podręcznej. Tej operacji nie można cofnąć!";
+"delete_everything" = "Usuń wszystko";
+"data_cleared" = "✅ Dane wyczyszczone";
+"data_cleared_disc" = "Wszystkie dane aplikacji zostały pomyślnie usunięte. Aplikacja zostanie teraz ponownie uruchomiona.";
+
+/* clearCaches */
+"clearonstartup" = "Wyczyść przy uruchomieniu";
+"clearcache" = "Wyczyść pamięć podręczną";
+"On" = "Włączone";
+"Off" = "Wyłączone";
+
+"CLEARING_CACHE" = "Czyszczenie pamięci podręcznej...";
+"PLEASE_WAIT" = "Proszę czekać...";
+"CACHE_CLEARED" = "Pamięć podręczna została wyczyszczona!";
+"CLEAR_CACHE" = "Wyczyść pamięć podręczną";
+"CALCULATING" = "Obliczanie...";
+
+/* Unlink Email from License */
+"unlink_email" = "Odłącz e-mail";
+"unlink_confirmation" = "Potwierdź odłączenie";
+"unlink_email_explanation" = "Czy na pewno chcesz odłączyć ten e-mail od licencji?";
+"unlink" = "Odłącz";
+"error_unlink" = "Błąd";
+"error_unlink_desc" = "Nie udało się odłączyć e-maila.";
+"success_unlink" = "Sukces";
+"success_unlink_desc" = "E-mail został pomyślnie odłączony.";
+
+/* promptForActivation */
+"license_option" = "Opcje licencji";
+"license_option_disc" = "Wybierz opcję:";
+"activate_new_license" = "Aktywuj nową licencję";
+"restore_license" = "Przywróć licencję";
+"renew_license" = "Odnów licencję";
+"buy_license" = "Kup licencję";
+"activate_new_license_disc" = "Wprowadź swój e‑mail i klucz licencyjny.";
+"email" = "E-mail";
+"license_key" = "Klucz licencji";
+"activate" = "Aktywuj";
+"invalid_email" = "Nieprawidłowy e‑mail";
+"invalid_email_disc" = "Wprowadź poprawny adres e‑mail.";
+"invalid_license" = "Nieprawidłowa licencja";
+"license_key_empty" = "Klucz licencyjny nie może być pusty.";
+"license_key_length_wrong" = "Długość klucza licencyjnego jest nieprawidłowa.\nWprowadź prawidłowy klucz.";
+
+/* promptForRestore */
+"restore_notice" = "Proces przywracania zaktualizowany";
+"restore_notice_desc" = "Proces przywracania został zmieniony. Po przywróceniu licencji musisz skopiować swój klucz i wrócić do ekranu aktywacji, aby aktywować ponownie za pomocą e‑maila i klucza.";
+"restore_license_disc" = "Wprowadź e‑mail powiązany z Twoją licencją.";
+"restore" = "Przywróć";
+"copy_license_key" = "Kopiuj klucz licencji";
+"license_key_copied_to_clipboard" = "Klucz licencyjny skopiowano do schowka.";
+"license_details" = "Szczegóły licencji";
+"license_details_disc" = "Klucz licencyjny: %@\n\nWygasa: %@\n\n%@";
+"license_restored_successfully" = "Licencja jest aktywna.";
+"license_restored" = "Licencja przywrócona";
+"restore_failed" = "Przywracanie nie powiodło się";
+
+/* enter license prompt */
+"enter_license_key" = "Wprowadź klucz licencyjny";
+"enter_license_key_disc" = "Wprowadź swój klucz licencyjny do weryfikacji.";
+"license_key_authenticated" = "Licencja zweryfikowana pomyślnie. Wygasa: %@";
+"authentication_successful" = "Uwierzytelnianie powiodło się";
+"key_used_on_another_device" = "Licencja jest już używana na innym urządzeniu.";
+"key_is_in_use_on_another_device" = "Ta licencja jest aktywna na innym urządzeniu. Użyj innego klucza.";
+"email_associated_with_another_key" = "Ten e‑mail jest powiązany z inną licencją.";
+"authentication_failed" = "Uwierzytelnianie nie powiodło się";
+"email_associated_with_defferent_key" = "Ten e‑mail jest powiązany z inną licencją. Użyj innego adresu lub klucza.";
+"key_expired" = "Klucz licencyjny wygasł";
+"license_expired" = "Licencja wygasła";
+"license_expired_disc" = "Twoja licencja wygasła. Odnów ją.";
+"license_verification_failed" = "Weryfikacja licencji nie powiodła się";
+"no_internet" = "Brak internetu";
+"no_internet_disc" = "Do uwierzytelniania wymagane jest połączenie z internetem.";
+"license_disc" = "Wprowadzony klucz licencyjny jest nieważny.";
+
+/* other stuff */

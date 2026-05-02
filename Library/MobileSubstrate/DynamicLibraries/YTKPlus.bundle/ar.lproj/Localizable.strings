@@ -1,0 +1,569 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "تفعيل عام";
+"GLOBAL_ENABLED_SWITCH" = "اضغط على الزر بالأعلى لتطبيق التغييرات.";
+
+/* downloading global switch */
+"DOWNLOADING" = "تفعيل ميزة التحميل";
+"glob_overlay_button" = "الأزرار التي تظهر داخل المشغل.";
+"overlay_button_disc" = "التنزيل، بدون إعلانات، تشغيل في الخلفية، وغيرها.";
+"first_cleaner_disc" = "اضغط مطولاً على أيقونة الترس لمدة 3 ثوانٍ لعرض خيارات التنظيف!";
+
+"fix_playback_issue" = "🔧 إصلاح مشاكل التشغيل واستعادة الحساب";
+"fix_playback_issue_disc" = "🎯 يعالج أخطاء \"حدث خطأ ما\" وانقطاع البث في التطبيقات المثبتة خارجيًا.";
+"fix_playback_issue_disc_footer" = "✅ تم اختباره على عدة حسابات — عادت جميعها إلى حالة التشغيل الطبيعية بعد بضعة أيام من التفعيل.\n\n📍 للحصول على أفضل النتائج:\n• قم بتفعيل خدمات الموقع لتطبيق YouTube\n• لا تستخدم VPN\n\nهاتان الخطوتان أساسيتان لعودة حسابك إلى حالته الطبيعية.\n\n⚠️ سيؤدي هذا إلى تعطيل التنزيل...\n\n⚠️ فعّله فقط إذا كنت تواجه مشاكل في التشغيل. إذا كان التشغيل يعمل بشكل جيد، اتركه مغلقًا.";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "مدير التنزيلات";
+"VIDEO_TAB_BAR" = "فيديو";
+"AUDIO_TAB_BAR" = "صوت";
+"SHORTS_TAB_BAR" = "مقاطع قصيرة";
+
+/* Startup page section */
+"STARTUP_PAGE" = "صفحة البدء الافتراضية";
+"DEFAULT_PAGE" = "الرئيسية";
+
+"HOME" = "الرئيسية";
+"EXPLORE" = "استكشاف";
+"SHORTS" = "شورتس";
+"SUBSCRIPTIONS" = "الاشتراكات";
+"LIBRARY" = "المكتبة";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "أزرار التحكم بالمشغل";
+"overlay_player" = "مشغل مدمج";
+"speed_index" = "سرعة التشغيل";
+"default_speed_index" = "السرعة الافتراضية";
+"default_speed_index_disc" = "يحافظ على السرعة المختارة بدون تعارض مع أزرار التحكم.";
+"pip_player" = "تشغيل في PiP";
+"short_player" = "مشغل الشورتس";
+"loop_toggle" = "زر التكرار";
+
+"yt_video_quality_wifi" = "جودة الفيديو عبر Wi-Fi";
+"yt_video_quality_celluar" = "جودة الفيديو عبر البيانات";
+"auto" = "تلقائي";
+"yt_speed_playback" = "السرعة الافتراضية";
+"normal" = "عادي";
+"default" = "افتراضي";
+
+"image" = "حفظ الصورة";
+"information" = "نسخ المعلومات";
+"copy_title" = "نسخ العنوان";
+"copy_describtion" = "نسخ الوصف";
+"copied" = "تم النسخ إلى الحافظة";
+
+"save_pfP" = "حفظ صورة الملف الشخصي";
+"copy_ptext" = "نسخ نص المنشور";
+"save_img" = "حفظ الصورة";
+"copy_comment" = "نسخ التعليق";
+"pip_mode" = "تشغيل في مشغل خارجي";
+"ios_system_player" = "مشغل النظام";
+"infuse_player" = "مشغل Infuse";
+"vlc_player" = "مشغل VLC";
+"infuse_not_installed" = "تطبيق Infuse غير مثبت";
+"vlc_not_installed" = "تطبيق VLC غير مثبت";
+"pip_mode_desc" = "فعّل خيار \"التشغيل بالخلفية\" في الإعدادات لاستخدام PiP.";
+"mini_player2" = "مشغل مصغّر";
+"floating_mini_player" = "مشغل مصغّر عائم";
+
+/* backup and restore */
+"backup_and_restore" = "النسخ الاحتياطي والاستعادة";
+"cretae_a_backup" = "إنشاء نسخة احتياطية";
+"create_a_backup_disc" = "يصدّر جميع الفيديوهات والصوتيات إلى تطبيق الملفات.";
+"restore_backup" = "استعادة نسخة";
+"restore_backup_disc" = "يمكن استعادة النسخ من تطبيق الملفات فقط.";
+"backup_prepared" = "جاري إعداد النسخة...";
+"create_failed" = "فشل النسخ الاحتياطي";
+"failed_create_disc" = "تعذّر إنشاء النسخة. حاول مرة أخرى.";
+"restoring_backup" = "جاري الاستعادة...";
+"restore_complete" = "تمت الاستعادة";
+"restore_complete_disc" = "تمت استعادة مكتبة YTKPlus بنجاح.";
+"restore_failed_disc" = "فشلت عملية الاستعادة. حاول مرة أخرى.";
+"restore_failed" = "فشل الاستعادة";
+"restore_backup_confirm" = "استعادة";
+"create" = "إنشاء";
+"create_backup" = "هل تريد إنشاء نسخة احتياطية؟";
+"restore_backup_confirm_disc" = "هل تريد استعادة الملف YTKPlus_Backup.zip؟\nلن يمكن التراجع عن هذا الإجراء!";
+"invalid_backup_file" = "ملف النسخة غير صالح";
+"invalid_backup_file_disc" = "يرجى اختيار الملف YTKPlus_Backup.zip.";
+"Backup_saved" = "تم حفظ النسخة بنجاح في تطبيق الملفات.";
+"Backup_not_saved" = "تحذير: لم يتم حفظ النسخة في تطبيق الملفات.";
+
+/* import Media */
+"import_media" = "استيراد الوسائط";
+"import_media_disc" = "استورد الفيديوهات والصوتيات إلى مكتبة YTKPlus مباشرة من تطبيق الملفات، يمكن تحديد عدة ملفات في آن واحد.";
+"choose_media_type" = "اختر نوع الوسائط للاستيراد";
+"successfully_imported_files" = "تم استيراد الملفات بنجاح: %@";
+"failed_to_import_files" = "فشل استيراد الملفات: %@";
+"import_result" = "نتيجة الاستيراد";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "حظر الإعلانات";
+"SB_BEHAVIOR" = "سلوك الحظر";
+"SB_SKIP" = "تخطي";
+"SB_ASK" = "اسأل";
+"sub_value" = "مدة التنبيه: %.lf";
+/* popup */
+"UNSKIP" = "إلغاء التخطي";
+"SKIP" = "تخطي";
+"SEGMENT_SKIPPED" = "تم تخطي المقطع الإعلاني";
+"FOUND_SEGMENT" = "تم اكتشاف مقطع إعلاني";
+"AudioNotificationOnSkip" = "تشغيل صوت عند التخطي";
+
+/* shorts section */
+"short_fullscreen" = "ملء الشاشة";
+"short_auto_skip" = "تخطي تلقائي للشورتس";
+"USE_PREM_LOGO" = "استخدام شعار بريميوم";
+"cast_confirm" = "تأكيد الإرسال";
+"video_available" = "فيديو متاح";
+"videos_available" = "فيديوهات متاحة";
+"audio_available" = "صوت متاح";
+"audios_available" = "أصوات متاحة";
+"short_available" = "شورت متاح";
+"shorts_available" = "شورتس متاحة";
+
+/* general section */
+"VIDEO_PLAYER" = "خيارات مشغل الفيديو";
+"OVERLAY_OPTIONS" = "خيارات المشغل المدمج";
+"STREAM_OPTIONS" = "خيارات البث";
+"IPAD_OPTIONS" = "خيارات iPad";
+"NAVIGATION_BAR" = "شريط التنقل";
+"SHORTS_OPTION" = "خيارات الشورتس";
+"DOWNLOAD_OPTIONS" = "خيارات التحميل الإضافية";
+"TAB_BAR_OPTIONS" = "خيارات شريط التبويب";
+"MISCELLANEOUS" = "عام";
+
+/* general section switch */
+"OLED_DARK_MODE" = "وضع داكن OLED";
+"PLAY_IN_BACKGROUND" = "تشغيل في الخلفية";
+"NO_ADVERTISMENT" = "بدون إعلانات";
+"NO_AGE_RESTRICTION" = "إزالة القيود العمرية";
+"HIDE_YT_SHORTS" = "إخفاء الشورتس من الصفحة";
+"DISABLE_CAPTIONS" = "تعطيل الترجمة";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "مشغل الفيديو";
+"HIDE_SUGGESTED_VIDEO" = "إخفاء الفيديوهات المقترحة";
+"COMMENTS" = "التعليقات";
+"HIDE_COMMENTS" = "إخفاء التعليقات";
+"HIDE_COMMENTS_PREVIEW" = "إخفاء معاينة التعليقات";
+"HIDE_COMMENTS_PREVIEW_INFO" = "لن تظهر التعليقات المفسدة بعد الآن.";
+"HIDE_COMMENTS_GUIDLINES" = "إخفاء إرشادات التعليقات";
+"HIDE_COMMUNITY_TEXT_INFO" = "إخفاء نص المجتمع في الأعلى.";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "المشغل المدمج";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "عرض شريط الحالة في المشغل";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "غير مدعوم على أجهزة النوتش أو iPad.";
+"DISABLE_DOUBLE_TAP" = "تعطيل النقر المزدوج";
+"DISABLE_CONTINUE_WATCHING" = "تعطيل المتابعة التلقائية";
+"DISABLE_CONTINUE_WATCHING_INFO" = "تظهر عند مشاهدة فيديو طويل جداً.";
+"HIDE_OVERLAY_QUICK_ACTION" = "إخفاء الإجراءات السريعة";
+"HIDE_PLAYERBAR_WAVE" = "إخفاء الموجة خلف الخط الزمني";
+"HIDE_PLAYERBAR_WAVE_INFO" = "إخفاء خريطة المشاهدة أثناء السحب.";
+"SWIPE_TO_HIDE_PANEL" = "اسحب لإخفاء اللوحة";
+"SWIPE_TO_HIDE_PANEL_INFO" = "اسحب من اليسار إلى اليمين في وضع ملء الشاشة.";
+"DISABLE_PINCH_TO_ZOOM" = "تعطيل التكبير بالإصبعين";
+"MEDIA_CONTROLLER" = "التحكم بالمشغل";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "إظهار زر التشغيل/الإيقاف دائماً";
+"SHOW_MEDIA_CONTROLLER" = "إظهار كل أدوات المشغل دائماً";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "إخفاء الخلفية الداكنة";
+"KEEP_CAPTION_ON" = "إبقاء الترجمة مفعّلة";
+"KEEP_CAPTION_ON_INFO" = "تشغيل الترجمة تلقائياً عند عرض الفيديو.";
+"PREVIUOS_AND_NEXT_BUTTON" = "زر السابق والتالي";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "تعطيل أزرار السابق والتالي";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "تصغير حجم الأزرار";
+"PLAYER_BAR_NEXT_BUTTON" = "إضافة زر التالي بجانب الوقت";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "إخفاء أزرار السابق والتالي";
+"HIDE_BACK_BUTTON_SHADOW" = "إخفاء ظل الأزرار";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "استبدال بأزرار التقديم والترجيع";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "يستبدل الأزرار بأزرار تقديم وترجيع.";
+"HIDE_ITEMS" = "إخفاء العناصر";
+"HIDE_VOLUME_BAR" = "إخفاء شريط الصوت";
+"HIDE_VOLUME_BAR_INFO" = "إخفاء شريط الصوت الأبيض في الوضع الأفقي.";
+"HIDE_INFO_CARD" = "إخفاء بطاقة المعلومات";
+"HIDE_WATER_MARK" = "إخفاء العلامة المائية";
+"HIDE_AUTOPLAY_BUTTON" = "إخفاء زر التشغيل التلقائي";
+"HIDE_CAPTIONS_BUTTON" = "إخفاء زر الترجمة";
+"HIDE_PLAY_PUASE" = "إخفاء زر التشغيل/الإيقاف";
+"HIDE_MORE_GEAR_ICON" = "إخفاء زر الإعدادات";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "إخفاء زر المحادثة في البث";
+"HIDE_CAST_BUTTON" = "إخفاء زر البث";
+"HIDE_ENDSCREEN_VIDEOS" = "إخفاء الفيديوهات النهائية";
+"HIDE_RELATED_VIDEOS" = "إخفاء الفيديوهات المشابهة";
+"HIDE_LANDSCAPE_COMMENTS" = "تعطيل التعليقات في الوضع الأفقي";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "سيتم إلغاء التعليقات في الوضع الأفقي تماماً.";
+"SHOW_PROGRESS_BAR" = "إبقاء شريط التقدم ظاهراً";
+"SHOW_PROGRESS_BAR_INFO" = "تعطيل السحب لإظهار الفيديوهات المشابهة.";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "تفعيل وضع الجودة القديم";
+"LEGACY_QUALITY_MODE_INFO" = "استعادة قائمة الجودة القديمة.";
+"PICTURE_IN_PICTURE_PIP" = "صورة داخل صورة (PiP)";
+"ENABLE_PIP" = "تفعيل ميزة PiP";
+"ENABLE_PIP_INFO" = "يضيف زر PiP في واجهة الفيديو.";
+"DOUBLE_TAP" = "خيارات النقر المزدوج";
+"CUSTOM_SKIP_DURATION" = "تحديد مدة التخطي";
+"VALUE_CHANGES_JB" = "ثوانٍ: %.lf";
+"VALUE_CHANGES" = "ثوانٍ: 10";
+"STREAMING_SECTION" = "البث";
+"PLAYBACK_SPEED" = "خيارات سرعة تشغيل إضافية";
+"PLAYBACK_SPEED_INFO" = "من واجهة الفيديو ← زر الإعدادات ← سرعة التشغيل";
+"DISABLE_AUTOPLAY_VIDEOS" = "إيقاف التشغيل التلقائي";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "تشغيل فيديوهات HD عبر بيانات الهاتف";
+
+/* iPad section */
+"IPAD_SECION" = "وضع iPad";
+"IPADOS_MODE" = "تفعيل وضع iPadOS";
+"DISABLE_DRAG_AND_DROP" = "تعطيل السحب والإفلات";
+"HIDE_CHANNEL_CIRCLES" = "إخفاء دوائر القنوات";
+"HIDE_CHANNEL_CIRCLES_INFO" = "من قسم الاشتراكات أسفل شريط التنقل.";
+"MINI_PLAYER_ASPECT_RATIO" = "نسبة عرض المشغل المصغّر";
+"USE_ASPECT_RATIO" = "استخدام النسبة الكاملة";
+"USE_ASPECT_RATIO_INFO" = "غير مدعوم في مشغل iPad المصغّر.";
+"MINI_PLAYER" = "مشغل مصغّر بنمط iPad";
+"REDEFIND_MINI_PLAYER" = "مشغل مصغّر في المنتصف";
+"MINI_PLAYER_IPAD_MODE" = "مشغل مصغّر على اليمين";
+
+/* navbar section */
+"STATUS_BAR" = "شريط الحالة";
+"HIDE_STATUS_BAR" = "إخفاء شريط الحالة";
+"CHANNEL_SECTIONS" = "قسم القنوات";
+"STICKY_NAV_BAR" = "إخفاء الفئات أسفل شريط التنقل";
+"SHOW_YTKPLUS_ICON" = "عرض شعار YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "إخفاء العناصر";
+"SHOW_YTKPlus_Icon" = "عرض شعار YTKPlus";
+"HIDE_YT_LOGO" = "إخفاء شعار YouTube";
+"HIDE_NOTIFICATIONS_BILL" = "إخفاء الإشعارات 🔕";
+"HIDE_ACCOUNT" = "إخفاء الحساب";
+"HIDE_SEARCH" = "إخفاء البحث";
+"HIDE_CAST_BUTTON" = "إخفاء زر البث";
+
+/* shorts section */
+"SHORTS_SECTION" = "الشورتس";
+"ENABLE_PLAYER_BAR" = "تفعيل شريط التقدم في الأسفل";
+"HIDE_ELEMNTS" = "إخفاء العناصر";
+"HIDE_PAUSE_CARD" = "إخفاء بطاقة الإيقاف المؤقت";
+"HIDE_LIKE_BUTTON" = "إخفاء زر الإعجاب";
+"HIDE_DISLIKE_BUTTON" = "إخفاء زر عدم الإعجاب";
+"HIDE_COMMENTS_BUTTON" = "إخفاء زر التعليقات";
+"HIDE_SHARE_BUTTON" = "إخفاء زر المشاركة";
+"HIDE_REMIX_BUTTON" = "إخفاء زر الريمكس";
+"HIDE_AVATAR_BUTTON" = "إخفاء الصورة الرمزية";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "خيارات تحميل إضافية";
+"LOCAL_DOWNLOADING" = "تفعيل التحميل المحلي";
+"LOCAL_DOWNLOADING_INFO" = "اضغط مطولاً على الفيديو لفتح قائمة التحميل.";
+"HIDE_DOWNLOAD_BUTTON" = "إخفاء زر التحميل";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "إخفاء زر التحميل الافتراضي في YouTube.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "إيقاف انتهاء صلاحية الفيديوهات المحمّلة";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "للفيديوهات المحمّلة من أداة YouTube الأصلية.";
+"DOWNLOAD_SECTION_INFO" = "ملاحظات: إذا ظهرت جودة مكرّرة اختر العليا. يتم الحفظ في تطبيق الصور. إيقاف السحب للتقديم. إذا فعّلت 4K، سيتم تعطيل التحميل.";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "شريط التبويب";
+"TABS_SHRINKED_BUTTOM" = "تصغير الأزرار (أسفل)";
+"TABS_SHRINKED_SMART" = "تصغير الأزرار (ذكي)";
+"DISABLE_CREATE_BUTTON" = "تعطيل زر (+)";
+"HIDE_TAB_LABELS" = "إخفاء أسماء التبويبات";
+"PREVENT_OPEN_IN_SHORTS" = "منع الفتح في الشورتس";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "يحدث عند إغلاق التطبيق أثناء عرض الشورتس.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "استبدال الشورتس بالاستكشاف";
+"HIDE_TABS" = "إخفاء التبويبات";
+"HIDE_EXPLORE_TAB" = "إخفاء تبويب الاستكشاف";
+"HIDE_SHORTS_TAB" = "إخفاء تبويب الشورتس";
+"HIDE_CREATE_TAB" = "إخفاء تبويب الإنشاء";
+"HIDE_SUBSCRIPTION_TAB" = "إخفاء تبويب الاشتراكات";
+"HIDE_LIBRARY_TAB" = "إخفاء تبويب المكتبة";
+"HIDE_ALL_TAB" = "إخفاء كل التبويبات";
+"MAIN_TAB" = "الرئيسية";
+"ACTIVE_TABS" = "التبويبات النشطة";
+"INACTIVE_TABS" = "التبويبات غير النشطة";
+"CANT_REMOVE" = "لا يمكن الإزالة";
+"CANT_REMOVE_DESC" = "يجب أن يكون لديك تبويب نشط واحد على الأقل.";
+"INACTIVE_TABS_TXT" = "%@ (غير نشط)";
+"TABS_INACTIVE" = "التبويبات غير نشطة";
+"TABS_INACTIVE_DESC" = "\"%@\" غير نشط. أضفه إلى التبويبات النشطة أولاً.";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "إعدادات متنوعة";
+"USE_STOCK_VOLUME_HUD" = "استخدام شريط الصوت الافتراضي";
+"USE_STOCK_VOLUME_HUD_INFO" = "يعمل فقط في الوضع الأفقي.";
+"HIDE_SEARCHED_HISTORY" = "إخفاء سجل البحث";
+"NOT_TOPIC_SECTION" = "إخفاء أقسام المواضيع";
+"HIDE_PREMIUM_POPUP" = "إخفاء نافذة Premium";
+"HIDE_YT_UPDATE_POPUP" = "إخفاء تنبيه تحديث YouTube";
+"HIDE_YT_UPDATE_POPUP_INFO" = "إزالة تنبيهات التحديث الإجباري.";
+"ENABLE_MINI_PLAYER_VIDEOS" = "تفعيل المشغل المصغّر لكل الفيديوهات";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "حتى للفيديوهات المخصصة للأطفال.";
+"HIDE_HUD_ALERTS" = "إخفاء التنبيهات المنبثقة";
+"HIDE_HUD_ALERTS_INFO" = "إخفاء تنبيهات مثل عدم الإعجاب وغيرها.";
+"CLASSIC_SHARE" = "قائمة مشاركة كلاسيكية";
+"HIDE_LINE_SEPERATOR" = "إخفاء الفواصل في المكتبة";
+"ROUND_ALL_VIEW_CORNERS" = "تدوير حواف الواجهة";
+"DISABLE_DARK_MODE" = "تعطيل الوضع الداكن";
+"HIDE_INCLUDE_PAID_PROMO" = "إخفاء إشعارات الترويج المدفوع";
+"DISABLE_RTL" = "تعطيل الاتجاه من اليمين لليسار";
+"OTHERS" = "الصفحة الرئيسية";
+"HIDE_PLAYLIST" = "إخفاء قوائم التشغيل";
+"PLAYLIST_INFO" = "نمط iPad غير مدعوم.";
+"HIDE_COVID_NEWS" = "إخفاء كوفيد والأخبار";
+"COVID_NEWS_INFO" = "إزالة كوفيد والأخبار من الصفحة الرئيسية.";
+"HIDE_FILTER_TAGS" = "إخفاء الفلاتر في الأعلى";
+
+/* global action title */
+"OK" = "حسناً";
+"YES" = "نعم";
+"NO" = "لا";
+"ERROR" = "خطأ";
+"loading_pip" = "جارٍ تحميل وضع PiP...";
+"APP_RESTART_REQUIRED" = "أعد تشغيل YouTube لتطبيق التغييرات.";
+"FILZA_NOT_INSTALLED_ALERT" = "التطبيق غير مثبت على هذا الجهاز.";
+"NO_DATA" = "لا توجد تنزيلات";
+"CANCEL" = "إلغاء";
+"DISMISS" = "إغلاق";
+"DELETED" = "تم الحذف";
+"SAVED" = "تم الحفظ";
+"SUCCESS" = "تم بنجاح";
+"VIDEO" = "تحميل الفيديو";
+"AUDIO" = "تحميل الصوت";
+"RENAME" = "إعادة تسمية";
+"RENAME_FILE" = "إعادة تسمية الملف";
+"RENAME_NEW_NAME" = "أدخل الاسم الجديد:";
+"RENAME_PLACEHOLDER" = "اكتب اسم الفيديو الجديد";
+"RENAME_PLACEHOLDER_AUDIO" = "اكتب اسم الصوت الجديد";
+"PLAY" = "المشغل الافتراضي";
+"SHARE" = "مشاركة";
+"VIEW_IN_FILZA" = "عرض في Filza";
+"DELETE" = "حذف";
+"MORE_OPTION" = "خيارات إضافية";
+"MAIN_OPTION" = "خيارات رئيسية";
+"DELETE_ALL" = "حذف الكل";
+"SAVE_ARTWORK" = "حفظ الغلاف";
+"SAVE_TO_PHOTOS" = "حفظ في الصور";
+"ARE_YOU_SURE" = "هل أنت متأكد من حذف جميع العناصر؟";
+"NOTE" = "ملاحظة!";
+"SAVE_FAILED" = "فشل الحفظ!";
+"SAVE_TO_PHOTOS_FAILED" = "فشل الحفظ في الصور، تحقق من صلاحيات التطبيق.";
+"DELETING_VIDEO" = "حذف الفيديو؟";
+"DELETING_AUDIO" = "حذف الصوت؟";
+"AUTO_LANGUAGE" = "تلقائي";
+"SELECT_LANGUAGE" = "اختيار اللغة";
+"FAQ" = "الأسئلة الشائعة";
+"action_undone" = "لا يمكن التراجع عن هذا الإجراء!";
+
+"toast_downloading" = "جاري التحميل...";
+"toast_downloading_audio" = "تحميل الصوت...";
+"toast_downloading_video" = "تحميل الفيديو...";
+"toast_merging" = "جاري الدمج...";
+"toast_preparing" = "التحضير... : 0%";
+"toast_download_cancelled" = "تم إلغاء التحميل";
+
+"video_saved" = "✓ تم حفظ الفيديو - %@";
+"video_downloaded" = "🎬 ✓ تم تنزيل الفيديو: %@";
+"m4a_smaller" = "🎵 ‏M4A (صوت AAC • أصغر)";
+"mp3_larger" = "🎵 ‏MP3 (عالمي • أكبر)";
+"audio_saved" = "✓ تم حفظ الصوت %@ بصيغة %@";
+"audio_downloaded" = "🎵 ✓ تم تنزيل الصوت (%@)";
+"shorts_downloaded" = "🎬 ✓ تم تنزيل Shorts";
+"queued" = "📥 تمت إضافته إلى القائمة: ";
+"video_queuad" = "🎬 📥 تمت إضافة الفيديو: ";
+"audio_queuad" = "🎵 📥 تمت إضافة الصوت: ";
+"starting" = "🔄 يبدأ: %@";
+"audio_progress" = "🎵 الصوت: %@";
+"video_progress" = "🎬 الفيديو: %@";
+"converting" = "⚙️ تحويل: %@";
+"merging" = "⚙️ دمج: %@";
+"download_cancelled" = "❌ تم إلغاء التنزيل: %@";
+"quea_cancelled" = "❌ تمت إزالته من القائمة";
+"cancelled" = "❌ تم الإلغاء: %@";
+"loop_disabled" = "🔁 تم إيقاف التكرار";
+"loop_enabled" = "🔂 تم تشغيل التكرار";
+"Auto_Skip" = "تخطي تلقائي";
+"Exit_Fullscreen" = "الخروج من ملء الشاشة";
+
+"play_next" = "تشغيل التالي";
+"close" = "إغلاق";
+
+"VIDEO_INFO" = "معلومات الفيديو";
+"FILE_SIZE" = "حجم الملف";
+"DURATION" = "المدة";
+"DIMENSIONS" = "الأبعاد";
+"BITRATE" = "معدل البت";
+"FRAME_RATE" = "عدد الإطارات";
+"CREATED" = "تاريخ الإنشاء";
+"AUDIO_INFO" = "معلومات الصوت";
+"FORMAT" = "الصيغة";
+"SAMPLE_RATE" = "معدل العيّنة";
+"CHANNELS" = "القنوات";
+
+"year_ago" = "منذ %ld سنة%@";
+"month_ago" = "منذ %ld شهر%@";
+"week_ago" = "منذ %ld أسبوع%@";
+"day_ago" = "منذ %ld يوم%@";
+"hour_ago" = "منذ %ld ساعة%@";
+"minute_ago" = "منذ %ld دقيقة%@";
+"s" = "";
+"kilo_byte" = "%@    %*s    %.0f كيلوبايت";
+"mega_byte" = "%@    %*s    %.1f ميجابايت";
+
+"sleep_timer" = "مؤقت النوم";
+"time_calculater" = "%ld دقيقة";
+"5_min" = "٥ دقائق";
+"10_min" = "١٠ دقائق";
+"15_min" = "١٥ دقيقة";
+"20_min" = "٢٠ دقيقة";
+"30_min" = "٣٠ دقيقة";
+"45_min" = "٤٥ دقيقة";
+"1_hour" = "ساعة واحدة";
+"end_of_track" = "نهاية المقطع";
+"min_left" = "متبقي %ld دقيقة";
+"sleep_timer_activated" = "تم تفعيل مؤقت النوم - تم إيقاف التشغيل مؤقتًا";
+"custom_time" = "وقت مخصص";
+"enter_duration_desc" = "أدخل المدة (مثال: 20د، 1س، 1س 30د، 90)";
+"set" = "تعيين";
+"invalid_input" = "إدخال غير صالح";
+"invalid_input_desc" = "استخدم صيغ مثل: 20د، 1س، 1س 30د، 90";
+
+/* gestures */
+"gestures_control" = "تحكم الإيماءات";
+"brightness" = "السطوع";
+"left" = "يسار";
+"right" = "يمين";
+"disabled" = "معطل";
+"volume" = "الصوت";
+"hold_to_seek" = "استمر للتقديم";
+"seek_duration" = "مدة التقديم";
+"seconds" = "%.0f ثانية";
+"volume_brightness_gesture" = "إيماءات الصوت والسطوع";
+"seek_settings" = "إعدادات التقديم";
+"gestures_config_description" = "حدد الجهة المسؤولة عن السطوع والصوت.\n\nنصائح:\n1. في الوضع العمودي اسحب للأسفل على أحد الجانبين.\n2. في ملء الشاشة اسحب من الأسفل حسب طريقة يوتيوب.";
+"hold_to_seek_description" = "اضغط باستمرار على اليمين أو اليسار للتقديم المستمر حسب المدة المحددة.";
+"brightness_gesture_left" = "السطوع";
+"gesture_left_side" = "الجهة اليسرى";
+"cancel" = "إلغاء";
+"volume_gesture_right" = "الصوت";
+"gesture_right_side" = "الجهة اليمنى";
+
+/* icon themes */
+"icon_changed" = "لقد قمت بتغيير\nأيقونة \"YouTube\".";
+"select_icon_theme" = "اختر نمط الأيقونة";
+"icon_not_available" = "الرموز المخصصة غير متوفرة";
+"icon_not_available_disc" = "الرموز المخصصة غير مضمّنة في تطبيق يوتيوب هذا. تحتاج إلى تثبيت ملف IPA لتغيير أيقونة التطبيق.";
+
+/* fake location */
+"fake_location" = "موقع وهمي";
+"save" = "حفظ";
+"location_name" = "اسم الموقع";
+"enter_location_name" = "الدولة: %@\nأدخل اسمًا لهذا الموقع";
+"unknown" = "غير معروف";
+"save_location" = "حفظ الموقع";
+"getting_location_info" = "جارٍ الحصول على معلومات الموقع...";
+"loading" = "جارٍ التحميل...";
+"selected_location" = "الموقع المحدد";
+"delete" = "حذف";
+"saved_location_disc" = "إدارة المواقع المحفوظة وتعيين أحدها كموقع نشط. اسحب لحذف أي موقع.";
+"enable_fake_location_disc" = "قم بمحاكاة موقع مخصص داخل يوتيوب بدلًا من موقعك الحقيقي. يضيف زرًا في خريطة الأصدقاء للتبديل السريع.";
+"SAVED_LOCATIONS" = "المواقع المحفوظة";
+"search_places" = "ابحث عن الأماكن";
+"select_location" = "اختر موقعًا";
+"custom_location" = "موقع مخصص";
+"system_default" = "إعدادات النظام";
+"current_location" = "الموقع الحالي";
+"enable_fake_location" = "تفعيل الموقع الوهمي";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "مشاريع أخرى";
+"CREDITS" = "الاعتمادات";
+"SPECIAL_THANK" = "شكر خاص";
+"LOCALIZATION" = "الترجمات";
+"icon_by" = "الأيقونة بواسطة";
+"DEVELOPER" = "المطور";
+"WELCOM_ALERT" = "لتعديل الإعدادات، افتح تبويب YTKPlus واضغط على أيقونة الإعدادات.";
+
+/* compatibility... */
+"compatible_legacy_ver" = "متوافق (إصدار iOS قديم)";
+"not_compatible_ver" = "غير متوافق";
+"unknown_ver" = "غير معروف";
+"compatible_ver" = "متوافق";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ مسح جميع البيانات";
+"clear_all_data_disc" = "سيؤدي هذا إلى حذف جميع بيانات التطبيق بما في ذلك سلسلة المفاتيح والتفضيلات والملفات المؤقتة. لا يمكن التراجع عن هذا الإجراء!";
+"delete_everything" = "حذف كل شيء";
+"data_cleared" = "✅ تم مسح البيانات";
+"data_cleared_disc" = "تم حذف جميع بيانات التطبيق بنجاح. سيُعاد تشغيل التطبيق الآن.";
+
+/* clearCaches */
+"clearonstartup" = "مسح عند التشغيل";
+"clearcache" = "مسح الذاكرة المؤقتة";
+"On" = "تشغيل";
+"Off" = "إيقاف";
+
+"CLEARING_CACHE" = "جاري المسح...";
+"PLEASE_WAIT" = "يرجى الانتظار...";
+"CACHE_CLEARED" = "تم المسح بنجاح!";
+"CLEAR_CACHE" = "مسح الذاكرة";
+"CALCULATING" = "جاري الحساب...";
+
+/* Unlink Email from License */
+"unlink_email" = "إلغاء ربط البريد الإلكتروني";
+"unlink_confirmation" = "تأكيد الإلغاء";
+"unlink_email_explanation" = "هل أنت متأكد أنك تريد إلغاء ربط هذا البريد الإلكتروني من الترخيص؟";
+"unlink" = "إلغاء الربط";
+"error_unlink" = "خطأ";
+"error_unlink_desc" = "فشل إلغاء ربط البريد الإلكتروني.";
+"success_unlink" = "نجاح";
+"success_unlink_desc" = "تم إلغاء ربط البريد الإلكتروني بنجاح.";
+
+/* license prompt */
+"license_option" = "خيارات الترخيص";
+"license_option_disc" = "اختر خياراً:";
+"activate_new_license" = "تفعيل ترخيص جديد";
+"restore_license" = "استعادة الترخيص";
+"renew_license" = "تجديد الترخيص";
+"buy_license" = "شراء الترخيص";
+"activate_new_license_disc" = "أدخل بريدك الإلكتروني ومفتاح الترخيص.";
+"email" = "البريد الإلكتروني";
+"license_key" = "مفتاح الترخيص";
+"activate" = "تفعيل";
+"invalid_email" = "بريد غير صالح";
+"invalid_email_disc" = "يرجى إدخال بريد إلكتروني صحيح.";
+"invalid_license" = "ترخيص غير صالح";
+"license_key_empty" = "لا يمكن ترك مفتاح الترخيص فارغاً.";
+"license_key_length_wrong" = "طول المفتاح غير صحيح.\nيرجى إدخال مفتاح صالح.";
+
+"restore_notice" = "تم تحديث عملية الاستعادة";
+"restore_notice_desc" = "تم تغيير عملية الاستعادة. بعد استعادة الترخيص، يجب عليك نسخ المفتاح والعودة إلى شاشة التفعيل لإعادة التفعيل باستخدام بريدك الإلكتروني والمفتاح مرة أخرى.";
+"restore_license_disc" = "أدخل البريد المرتبط بالترخيص.";
+"restore" = "استعادة";
+"copy_license_key" = "نسخ مفتاح الترخيص";
+"license_key_copied_to_clipboard" = "تم نسخ مفتاح الترخيص.";
+"license_details" = "تفاصيل الترخيص";
+"license_details_disc" = "المفتاح: %@\n\nينتهي في: %@\n\n%@";
+"license_restored_successfully" = "الترخيص نشط.";
+"license_restored" = "تمت الاستعادة";
+"restore_failed" = "فشلت الاستعادة";
+
+"enter_license_key" = "أدخل مفتاح الترخيص";
+"enter_license_key_disc" = "أدخل مفتاح الترخيص للتحقق.";
+"license_key_authenticated" = "تم التحقق بنجاح. ينتهي في: %@";
+"authentication_successful" = "تم التحقق بنجاح";
+"key_used_on_another_device" = "المفتاح مستخدم على جهاز آخر.";
+"key_is_in_use_on_another_device" = "هذا الترخيص مستخدم بجهاز آخر. استخدم مفتاحاً مختلفاً.";
+"email_associated_with_another_key" = "البريد مرتبط بترخيص آخر.";
+"authentication_failed" = "فشل التحقق";
+"email_associated_with_defferent_key" = "هذا البريد مرتبط بمفتاح مختلف. استخدم بريداً أو مفتاحاً آخر.";
+"key_expired" = "انتهت صلاحية المفتاح";
+"license_expired" = "انتهت صلاحية الترخيص";
+"license_expired_disc" = "انتهى الترخيص الخاص بك. يرجى التجديد.";
+"license_verification_failed" = "فشل التحقق من الترخيص";
+"no_internet" = "لا يوجد اتصال بالإنترنت";
+"no_internet_disc" = "مطلوب اتصال للتحقق من الترخيص.";
+"license_disc" = "مفتاح الترخيص الذي تم إدخاله غير صالح.";
+
+/* other stuff */

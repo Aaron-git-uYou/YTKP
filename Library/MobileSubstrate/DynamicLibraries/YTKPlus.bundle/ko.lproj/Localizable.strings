@@ -1,0 +1,570 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+/* by ChatGPT */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "글로벌 활성화";
+"GLOBAL_ENABLED_SWITCH" = "오른쪽 상단 버튼을 눌러 변경사항을 적용하세요.";
+
+/* downloading global switch */
+"DOWNLOADING" = "다운로드 기능 활성화";
+"glob_overlay_button" = "플레이어 내부에 표시되는 버튼입니다.";
+"overlay_button_disc" = "다운로드, 광고 없음, 백그라운드 재생 등.";
+"first_cleaner_disc" = "정리 옵션을 표시하려면 톱니바퀴 아이콘을 3초간 길게 누르세요!";
+
+"fix_playback_issue" = "🔧 재생 문제 해결 및 계정 복구";
+"fix_playback_issue_disc" = "🎯 \"문제가 발생했습니다\" 오류 및 스트림 끊김을 해결합니다.";
+"fix_playback_issue_disc_footer" = "✅ 여러 계정에서 테스트됨 — 며칠 후 정상 재생 상태로 복구됨.\n\n📍 최상의 결과를 위해:\n• YouTube 위치 서비스 활성화\n• VPN 사용 금지\n\n이 두 단계는 매우 중요합니다.\n\n⚠️ 다운로드 비활성화됨...\n\n⚠️ 문제 있을 때만 활성화하세요.";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "다운로드 관리자";
+"VIDEO_TAB_BAR" = "비디오";
+"AUDIO_TAB_BAR" = "오디오";
+"SHORTS_TAB_BAR" = "쇼츠";
+
+/* Startup page section */
+"STARTUP_PAGE" = "기본 시작 페이지";
+"DEFAULT_PAGE" = "홈";
+
+"HOME" = "홈";
+"EXPLORE" = "탐색";
+"SHORTS" = "쇼츠";
+"SUBSCRIPTIONS" = "구독";
+"LIBRARY" = "라이브러리";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "플레이어 컨트롤";
+"overlay_player" = "오버레이 플레이어";
+"speed_index" = "재생 속도";
+"default_speed_index" = "기본 재생 속도";
+"default_speed_index_disc" = "선택한 속도를 유지하며 충돌을 방지합니다.";
+"pip_player" = "PiP에서 재생";
+"short_player" = "쇼츠 플레이어";
+"loop_toggle" = "반복 버튼 추가";
+
+"yt_video_quality_wifi" = "Wi-Fi에서 비디오 품질";
+"yt_video_quality_celluar" = "셀룰러에서 비디오 품질";
+"auto" = "자동";
+"yt_speed_playback" = "기본 재생 속도";
+"normal" = "보통";
+"default" = "기본";
+
+"image" = "이미지 저장";
+"information" = "정보 복사";
+"copy_title" = "제목 복사";
+"copy_describtion" = "설명 복사";
+"copied" = "클립보드에 복사됨";
+
+"save_pfP" = "프로필 이미지 저장";
+"copy_ptext" = "게시물 텍스트 복사";
+"save_img" = "이미지 저장";
+"copy_comment" = "댓글 복사";
+"pip_mode" = "외부 플레이어에서 재생";
+"ios_system_player" = "iOS 기본 플레이어";
+"infuse_player" = "Infuse 플레이어";
+"vlc_player" = "VLC 플레이어";
+"infuse_not_installed" = "Infuse가 설치되어 있지 않습니다.";
+"vlc_not_installed" = "VLC가 설치되어 있지 않습니다.";
+"pip_mode_desc" = "'백그라운드 재생'을 활성화해야 PiP를 사용할 수 있습니다.";
+"mini_player2" = "미니 플레이어";
+"floating_mini_player" = "플로팅 미니 플레이어";
+
+/* backup and restore */
+"backup_and_restore" = "백업 및 복원";
+"cretae_a_backup" = "백업 만들기";
+"create_a_backup_disc" = "다운로드한 모든 비디오와 오디오를 ‘파일’ 앱으로 내보냅니다.";
+"restore_backup" = "백업 복원";
+"restore_backup_disc" = "‘파일’ 앱에서 직접 백업을 복원합니다.";
+"backup_prepared" = "백업 준비 중...";
+"create_failed" = "백업 실패";
+"failed_create_disc" = "백업을 생성하지 못했습니다. 다시 시도하세요.";
+"restoring_backup" = "복원 중...";
+"restore_complete" = "복원 완료";
+"restore_complete_disc" = "YTKPlus 백업이 성공적으로 복원되었습니다.";
+"restore_failed_disc" = "복원 실패. 다시 시도하세요.";
+"restore_failed" = "복원 실패";
+"restore_backup_confirm" = "복원";
+"create" = "생성";
+"create_backup" = "백업을 생성하시겠습니까?";
+"restore_backup_confirm_disc" = "YTKPlus_Backup.zip을 복원하시겠습니까?\n이 작업은 되돌릴 수 없습니다!";
+"invalid_backup_file" = "잘못된 백업 파일";
+"invalid_backup_file_disc" = "YTKPlus_Backup.zip 파일을 선택하세요.";
+"Backup_saved" = "백업이 파일 앱에 저장되었습니다.";
+"Backup_not_saved" = "경고: 백업이 파일 앱에 저장되지 않았습니다.";
+
+/* import Media */
+"import_media" = "미디어 가져오기";
+"import_media_disc" = "비디오와 오디오를 ‘파일’ 앱에서 YTKPlus로 가져옵니다. 여러 파일 및 썸네일 지원.";
+"choose_media_type" = "가져올 미디어 유형 선택";
+"successfully_imported_files" = "가져오기 완료: %@";
+"failed_to_import_files" = "가져오기 실패: %@";
+"import_result" = "가져오기 결과";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "스폰서 차단";
+"SB_BEHAVIOR" = "차단 동작";
+"SB_SKIP" = "건너뛰기";
+"SB_ASK" = "확인 요청";
+"sub_value" = "알림 시간: %.lf";
+/* popup */
+"UNSKIP" = "건너뛰기 취소";
+"SKIP" = "건너뛰기";
+"SEGMENT_SKIPPED" = "스폰서 구간이 건너뛰어졌습니다.";
+"FOUND_SEGMENT" = "스폰서 구간이 감지되었습니다.";
+"AudioNotificationOnSkip" = "건너뛸 때 소리 재생";
+
+/* shorts section */
+"short_fullscreen" = "전체 화면";
+"short_auto_skip" = "쇼츠 자동 건너뛰기";
+"USE_PREM_LOGO" = "프리미엄 로고 사용";
+"cast_confirm" = "캐스트 확인";
+"video_available" = "비디오 사용 가능";
+"videos_available" = "비디오 여러 개 사용 가능";
+"audio_available" = "오디오 사용 가능";
+"audios_available" = "오디오 여러 개 사용 가능";
+"short_available" = "쇼츠 사용 가능";
+"shorts_available" = "쇼츠 여러 개 사용 가능";
+
+/* general section */
+"VIDEO_PLAYER" = "비디오 플레이어 옵션";
+"OVERLAY_OPTIONS" = "오버레이 옵션";
+"STREAM_OPTIONS" = "스트리밍 옵션";
+"IPAD_OPTIONS" = "iPad 옵션";
+"NAVIGATION_BAR" = "탐색 바 옵션";
+"SHORTS_OPTION" = "쇼츠 옵션";
+"DOWNLOAD_OPTIONS" = "추가 다운로드 옵션";
+"TAB_BAR_OPTIONS" = "탭 바 옵션";
+"MISCELLANEOUS" = "일반";
+
+/* general section switch */
+"OLED_DARK_MODE" = "OLED 다크 모드";
+"PLAY_IN_BACKGROUND" = "백그라운드 재생";
+"NO_ADVERTISMENT" = "광고 없음";
+"NO_AGE_RESTRICTION" = "연령 제한 해제";
+"HIDE_YT_SHORTS" = "피드에서 쇼츠 숨기기";
+"DISABLE_CAPTIONS" = "자막 비활성화";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "비디오 플레이어";
+"HIDE_SUGGESTED_VIDEO" = "추천 비디오 숨기기";
+"COMMENTS" = "댓글";
+"HIDE_COMMENTS" = "댓글 숨기기";
+"HIDE_COMMENTS_PREVIEW" = "댓글 미리보기 숨기기";
+"HIDE_COMMENTS_PREVIEW_INFO" = "스포일러 댓글 방지.";
+"HIDE_COMMENTS_GUIDLINES" = "댓글 가이드 숨기기";
+"HIDE_COMMUNITY_TEXT_INFO" = "상단 커뮤니티 문구 숨기기.";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "오버레이";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "상태 표시줄 표시";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "노치 기기와 iPad는 지원되지 않습니다.";
+"DISABLE_DOUBLE_TAP" = "더블 탭 비활성화";
+"DISABLE_CONTINUE_WATCHING" = "계속 시청 비활성화";
+"DISABLE_CONTINUE_WATCHING_INFO" = "긴 비디오에서 표시됨.";
+"HIDE_OVERLAY_QUICK_ACTION" = "빠른 동작 숨기기";
+"HIDE_PLAYERBAR_WAVE" = "타임라인 파형 숨기기";
+"HIDE_PLAYERBAR_WAVE_INFO" = "시청 구간 시각화 숨기기.";
+"SWIPE_TO_HIDE_PANEL" = "패널 숨기기 스와이프";
+"SWIPE_TO_HIDE_PANEL_INFO" = "전체 화면에서 왼쪽 → 오른쪽으로 스와이프.";
+"DISABLE_PINCH_TO_ZOOM" = "줌 제스처 비활성화";
+"MEDIA_CONTROLLER" = "미디어 컨트롤러";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "항상 재생/일시정지 표시";
+"SHOW_MEDIA_CONTROLLER" = "항상 모든 컨트롤 표시";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "어두운 배경 숨기기";
+"KEEP_CAPTION_ON" = "자막 유지";
+"KEEP_CAPTION_ON_INFO" = "비디오 재생 시 자동으로 자막 표시.";
+"PREVIUOS_AND_NEXT_BUTTON" = "이전/다음 버튼";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "이전/다음 버튼 비활성화";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "버튼 간격 축소";
+"PLAYER_BAR_NEXT_BUTTON" = "시간 옆에 다음 버튼 추가";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "이전/다음 버튼 숨기기";
+"HIDE_BACK_BUTTON_SHADOW" = "버튼 그림자 숨기기";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "앞/뒤 이동으로 교체";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "앞/뒤로 감기 버튼으로 대체.";
+"HIDE_ITEMS" = "항목 숨기기";
+"HIDE_VOLUME_BAR" = "볼륨 표시줄 숨기기";
+"HIDE_VOLUME_BAR_INFO" = "가로 모드에서 흰 볼륨바 숨기기.";
+"HIDE_INFO_CARD" = "정보 카드 숨기기";
+"HIDE_WATER_MARK" = "워터마크 숨기기";
+"HIDE_AUTOPLAY_BUTTON" = "자동 재생 버튼 숨기기";
+"HIDE_CAPTIONS_BUTTON" = "자막 버튼 숨기기";
+"HIDE_PLAY_PUASE" = "재생/일시정지 숨기기";
+"HIDE_MORE_GEAR_ICON" = "설정 아이콘 숨기기";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "스트리밍 채팅 버튼 숨기기";
+"HIDE_CAST_BUTTON" = "캐스트 버튼 숨기기";
+"HIDE_ENDSCREEN_VIDEOS" = "엔드스크린 비디오 숨기기";
+"HIDE_RELATED_VIDEOS" = "관련 비디오 숨기기";
+"HIDE_LANDSCAPE_COMMENTS" = "가로 모드 댓글 비활성화";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "가로 모드에서 댓글이 완전히 비활성화됩니다.";
+"SHOW_PROGRESS_BAR" = "진행 막대 표시 유지";
+"SHOW_PROGRESS_BAR_INFO" = "관련 비디오 스와이프 비활성화.";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "레거시 화질 모드 사용";
+"LEGACY_QUALITY_MODE_INFO" = "예전 화질 선택 메뉴를 복원합니다.";
+"PICTURE_IN_PICTURE_PIP" = "화면 속 화면 (PiP)";
+"ENABLE_PIP" = "PiP 기능 활성화";
+"ENABLE_PIP_INFO" = "비디오 오버레이에 PiP 아이콘 추가.";
+"DOUBLE_TAP" = "더블 탭 옵션";
+"CUSTOM_SKIP_DURATION" = "사용자 지정 건너뛰기 시간";
+"VALUE_CHANGES_JB" = "초: %.lf";
+"VALUE_CHANGES" = "초: 10";
+"STREAMING_SECTION" = "스트리밍";
+"PLAYBACK_SPEED" = "추가 재생 속도 옵션";
+"PLAYBACK_SPEED_INFO" = "재생 → 설정 → 속도 메뉴에서 선택.";
+"DISABLE_AUTOPLAY_VIDEOS" = "자동 재생 비활성화";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "모바일 데이터에서 HD 재생";
+
+/* iPad section */
+"IPAD_SECION" = "iPad 모드";
+"IPADOS_MODE" = "iPadOS 모드 활성화";
+"DISABLE_DRAG_AND_DROP" = "드래그 앤 드롭 비활성화";
+"HIDE_CHANNEL_CIRCLES" = "채널 아이콘 숨기기";
+"HIDE_CHANNEL_CIRCLES_INFO" = "구독 탭의 상단 채널 아이콘 숨김.";
+"MINI_PLAYER_ASPECT_RATIO" = "미니 플레이어 비율";
+"USE_ASPECT_RATIO" = "전체 비율 사용";
+"USE_ASPECT_RATIO_INFO" = "iPad 스타일에서는 지원되지 않습니다.";
+"MINI_PLAYER" = "iPad 스타일 미니 플레이어";
+"REDEFIND_MINI_PLAYER" = "가운데 정렬 미니 플레이어";
+"MINI_PLAYER_IPAD_MODE" = "오른쪽 미니 플레이어";
+
+/* navbar section */
+"STATUS_BAR" = "상태 표시줄";
+"HIDE_STATUS_BAR" = "상태 표시줄 숨기기";
+"CHANNEL_SECTIONS" = "채널 섹션";
+"STICKY_NAV_BAR" = "탐색 바 아래 카테고리 숨기기";
+"SHOW_YTKPLUS_ICON" = "YTKPlus 아이콘 표시";
+"HIDE_ITEMS_NAV_BAR" = "항목 숨기기";
+"SHOW_YTKPlus_Icon" = "YTKPlus 아이콘 표시";
+"HIDE_YT_LOGO" = "YouTube 로고 숨기기";
+"HIDE_NOTIFICATIONS_BILL" = "알림 숨기기 🔕";
+"HIDE_ACCOUNT" = "계정 숨기기";
+"HIDE_SEARCH" = "검색 숨기기";
+"HIDE_CAST_BUTTON" = "캐스트 버튼 숨기기";
+
+/* shorts section */
+"SHORTS_SECTION" = "쇼츠";
+"ENABLE_PLAYER_BAR" = "하단 진행 막대 표시";
+"HIDE_ELEMNTS" = "요소 숨기기";
+"HIDE_PAUSE_CARD" = "일시정지 카드 숨기기";
+"HIDE_LIKE_BUTTON" = "좋아요 버튼 숨기기";
+"HIDE_DISLIKE_BUTTON" = "싫어요 버튼 숨기기";
+"HIDE_COMMENTS_BUTTON" = "댓글 버튼 숨기기";
+"HIDE_SHARE_BUTTON" = "공유 버튼 숨기기";
+"HIDE_REMIX_BUTTON" = "리믹스 버튼 숨기기";
+"HIDE_AVATAR_BUTTON" = "아바타 버튼 숨기기";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "추가 다운로드 옵션";
+"LOCAL_DOWNLOADING" = "로컬 다운로드 모드";
+"LOCAL_DOWNLOADING_INFO" = "비디오를 길게 눌러 다운로드 메뉴 열기.";
+"HIDE_DOWNLOAD_BUTTON" = "다운로드 버튼 숨기기";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "기본 YT 다운로드 버튼 숨기기.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "다운로드 만료 비활성화";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "YouTube 기본 다운로드에 해당.";
+"DOWNLOAD_SECTION_INFO" = "참고: 같은 화질이 여러 개면 위쪽 항목을 선택하세요. 파일은 사진 앱에 저장됩니다. 길게 누르기 제스처는 비활성화됩니다. 4K 모드를 켜면 다운로드 기능이 비활성화됩니다.";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "탭 바";
+"TABS_SHRINKED_BUTTOM" = "작은 탭 (하단)";
+"TABS_SHRINKED_SMART" = "스마트 작은 탭";
+"DISABLE_CREATE_BUTTON" = "‘+’ 버튼 비활성화";
+"HIDE_TAB_LABELS" = "탭 이름 숨기기";
+"PREVENT_OPEN_IN_SHORTS" = "쇼츠로 자동 열기 방지";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "쇼츠 탭에서 종료 시 발생할 수 있음.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "쇼츠를 탐색으로 대체";
+"HIDE_TABS" = "탭 숨기기";
+"HIDE_EXPLORE_TAB" = "탐색 탭 숨기기";
+"HIDE_SHORTS_TAB" = "쇼츠 탭 숨기기";
+"HIDE_CREATE_TAB" = "생성 탭 숨기기";
+"HIDE_SUBSCRIPTION_TAB" = "구독 탭 숨기기";
+"HIDE_LIBRARY_TAB" = "라이브러리 탭 숨기기";
+"HIDE_ALL_TAB" = "모든 탭 숨기기";
+"MAIN_TAB" = "메인";
+"ACTIVE_TABS" = "활성 탭";
+"INACTIVE_TABS" = "비활성 탭";
+"CANT_REMOVE" = "삭제할 수 없음";
+"CANT_REMOVE_DESC" = "최소 하나의 활성 탭이 필요합니다.";
+"INACTIVE_TABS_TXT" = "%@ (비활성)";
+"TABS_INACTIVE" = "탭이 비활성 상태입니다";
+"TABS_INACTIVE_DESC" = "\"%@\" 는 비활성 상태입니다. 먼저 활성 탭에 추가하세요.";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "기타";
+"USE_STOCK_VOLUME_HUD" = "시스템 볼륨 HUD 사용";
+"USE_STOCK_VOLUME_HUD_INFO" = "가로 모드에서만 작동합니다.";
+"HIDE_SEARCHED_HISTORY" = "검색 기록 숨기기";
+"NOT_TOPIC_SECTION" = "주제 섹션 숨기기";
+"HIDE_PREMIUM_POPUP" = "프리미엄 팝업 숨기기";
+"HIDE_YT_UPDATE_POPUP" = "업데이트 팝업 숨기기";
+"HIDE_YT_UPDATE_POPUP_INFO" = "강제 업데이트 알림 제거.";
+"ENABLE_MINI_PLAYER_VIDEOS" = "모든 비디오에서 미니 플레이어 사용";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "어린이용 콘텐츠 포함.";
+"HIDE_HUD_ALERTS" = "팝업 알림 숨기기";
+"HIDE_HUD_ALERTS_INFO" = "‘싫어요’ 등 팝업 알림 숨기기.";
+"CLASSIC_SHARE" = "클래식 공유 메뉴";
+"HIDE_LINE_SEPERATOR" = "라인 구분 숨기기";
+"ROUND_ALL_VIEW_CORNERS" = "모서리 둥글게";
+"DISABLE_DARK_MODE" = "다크 모드 비활성화";
+"HIDE_INCLUDE_PAID_PROMO" = "유료 홍보 표시 숨기기";
+"DISABLE_RTL" = "RTL 언어 비활성화";
+"OTHERS" = "홈 피드";
+"HIDE_PLAYLIST" = "재생목록 숨기기";
+"PLAYLIST_INFO" = "iPad 스타일에서는 지원되지 않습니다.";
+"HIDE_COVID_NEWS" = "코로나/뉴스 숨기기";
+"COVID_NEWS_INFO" = "홈 피드에서 코로나/뉴스 제거.";
+"HIDE_FILTER_TAGS" = "상단 필터 태그 숨기기";
+
+/* global action title */
+"OK" = "확인";
+"YES" = "예";
+"NO" = "아니오";
+"ERROR" = "오류";
+"loading_pip" = "PiP 로딩 중...";
+"APP_RESTART_REQUIRED" = "YouTube를 다시 시작해야 적용됩니다.";
+"FILZA_NOT_INSTALLED_ALERT" = "앱이 설치되어 있지 않습니다.";
+"NO_DATA" = "다운로드 없음";
+"CANCEL" = "취소";
+"DISMISS" = "닫기";
+"DELETED" = "삭제됨";
+"SAVED" = "저장됨";
+"SUCCESS" = "완료";
+"VIDEO" = "비디오 다운로드";
+"AUDIO" = "오디오 다운로드";
+"RENAME" = "이름 변경";
+"RENAME_FILE" = "파일 이름 변경";
+"RENAME_NEW_NAME" = "새 이름 입력:";
+"RENAME_PLACEHOLDER" = "새 비디오 이름";
+"RENAME_PLACEHOLDER_AUDIO" = "새 오디오 이름";
+"PLAY" = "기본 플레이어";
+"SHARE" = "공유";
+"VIEW_IN_FILZA" = "Filza에서 보기";
+"DELETE" = "삭제";
+"MORE_OPTION" = "추가 옵션";
+"MAIN_OPTION" = "기본 옵션";
+"DELETE_ALL" = "전체 삭제";
+"SAVE_ARTWORK" = "아트워크 저장";
+"SAVE_TO_PHOTOS" = "사진에 저장";
+"ARE_YOU_SURE" = "모든 항목을 삭제하시겠습니까?";
+"NOTE" = "참고";
+"SAVE_FAILED" = "저장 실패!";
+"SAVE_TO_PHOTOS_FAILED" = "사진 앱 권한을 확인하세요.";
+"DELETING_VIDEO" = "비디오 삭제 중?";
+"DELETING_AUDIO" = "오디오 삭제 중?";
+"AUTO_LANGUAGE" = "자동";
+"SELECT_LANGUAGE" = "언어 선택";
+"FAQ" = "자주 묻는 질문";
+"action_undone" = "이 작업은 되돌릴 수 없습니다!";
+
+"toast_downloading" = "다운로드 중...";
+"toast_downloading_audio" = "오디오 다운로드 중...";
+"toast_downloading_video" = "비디오 다운로드 중...";
+"toast_merging" = "병합 중...";
+"toast_preparing" = "준비 중... : 0%";
+"toast_download_cancelled" = "다운로드가 취소되었습니다.";
+
+"video_saved" = "✓ 비디오 저장됨 - %@";
+"video_downloaded" = "🎬 ✓ 비디오 다운로드됨: %@";
+"m4a_smaller" = "🎵 M4A (AAC 오디오 • 더 작음)";
+"mp3_larger" = "🎵 MP3 (범용 • 더 큼)";
+"audio_saved" = "✓ 오디오 %@ 이(가) %@로 저장됨";
+"audio_downloaded" = "🎵 ✓ 오디오 다운로드 완료 (%@)";
+"shorts_downloaded" = "🎬 ✓ Shorts 다운로드됨";
+"queued" = "📥 대기열에 추가됨: ";
+"video_queuad" = "🎬 📥 비디오 대기열에 추가됨: ";
+"audio_queuad" = "🎵 📥 오디오 대기열에 추가됨: ";
+"starting" = "🔄 시작 중: %@";
+"audio_progress" = "🎵 오디오: %@";
+"video_progress" = "🎬 비디오: %@";
+"converting" = "⚙️ 변환 중: %@";
+"merging" = "⚙️ 병합 중: %@";
+"download_cancelled" = "❌ 다운로드 취소됨: %@";
+"quea_cancelled" = "❌ 대기열에서 제거됨";
+"cancelled" = "❌ 취소됨: %@";
+"loop_disabled" = "🔁 반복 비활성화됨";
+"loop_enabled" = "🔂 반복 활성화됨";
+"Auto_Skip" = "자동 건너뛰기";
+"Exit_Fullscreen" = "전체 화면 종료";
+
+"play_next" = "다음 재생";
+"close" = "닫기";
+
+"VIDEO_INFO" = "비디오 정보";
+"FILE_SIZE" = "파일 크기";
+"DURATION" = "재생 시간";
+"DIMENSIONS" = "해상도";
+"BITRATE" = "비트레이트";
+"FRAME_RATE" = "프레임 속도";
+"CREATED" = "생성됨";
+"AUDIO_INFO" = "오디오 정보";
+"FORMAT" = "형식";
+"SAMPLE_RATE" = "샘플 속도";
+"CHANNELS" = "채널 수";
+
+"year_ago" = "%ld년 전";
+"month_ago" = "%ld개월 전";
+"week_ago" = "%ld주 전";
+"day_ago" = "%ld일 전";
+"hour_ago" = "%ld시간 전";
+"minute_ago" = "%ld분 전";
+"s" = "초";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
+"sleep_timer" = "수면 타이머";
+"time_calculater" = "%ld분";
+"5_min" = "5분";
+"10_min" = "10분";
+"15_min" = "15분";
+"20_min" = "20분";
+"30_min" = "30분";
+"45_min" = "45분";
+"1_hour" = "1시간";
+"end_of_track" = "트랙 종료";
+"min_left" = "남은 시간 %ld분";
+"sleep_timer_activated" = "수면 타이머 활성화됨 - 재생이 일시 중지되었습니다";
+"custom_time" = "사용자 지정 시간";
+"enter_duration_desc" = "시간을 입력하세요 (예: 20m, 1h, 1h 30m, 90)";
+"set" = "설정";
+"invalid_input" = "잘못된 입력";
+"invalid_input_desc" = "다음 형식을 사용하세요: 20m, 1h, 1h 30m, 90";
+
+/* gestures */
+"gestures_control" = "제스처 컨트롤";
+"brightness" = "밝기";
+"left" = "왼쪽";
+"right" = "오른쪽";
+"disabled" = "비활성화됨";
+"volume" = "볼륨";
+"hold_to_seek" = "길게 눌러 탐색";
+"seek_duration" = "탐색 간격";
+"seconds" = "%.0f초";
+"volume_brightness_gesture" = "볼륨/밝기 제스처";
+"seek_settings" = "탐색 설정";
+"gestures_config_description" = "화면의 어느 쪽이 밝기와 볼륨을 제어할지 설정합니다.\n\n팁:\n1. 세로 모드에서는 한쪽 모서리에서 아래로 스와이프.\n2. 전체 화면에서는 하단에서 스와이프.";
+"hold_to_seek_description" = "왼쪽 또는 오른쪽을 길게 눌러 빠르게 탐색합니다.";
+"brightness_gesture_left" = "밝기 제어";
+"gesture_left_side" = "왼쪽 제스처";
+"cancel" = "취소";
+"volume_gesture_right" = "볼륨 제어";
+"gesture_right_side" = "오른쪽 제스처";
+
+/* icon themes */
+"icon_changed" = "“YouTube” 아이콘을\n변경했습니다.";
+"select_icon_theme" = "아이콘 테마 선택";
+"icon_not_available" = "사용자 지정 아이콘을 사용할 수 없습니다";
+"icon_not_available_disc" = "이 YouTube 앱에는 사용자 지정 아이콘이 포함되어 있지 않습니다. 앱 아이콘을 변경하려면 IPA를 설치해야 합니다.";
+
+/* fake location */
+"fake_location" = "가짜 위치";
+"save" = "저장";
+"location_name" = "위치 이름";
+"enter_location_name" = "국가: %@\n이 위치의 이름을 입력하세요";
+"unknown" = "알 수 없음";
+"save_location" = "위치 저장";
+"getting_location_info" = "위치 정보를 가져오는 중...";
+"loading" = "로딩 중...";
+"selected_location" = "선택된 위치";
+"delete" = "삭제";
+"saved_location_disc" = "저장된 위치를 관리하고 활성 위치로 설정하세요. 삭제하려면 스와이프하세요.";
+"enable_fake_location_disc" = "실제 위치 대신 YouTube에서 원하는 위치를 시뮬레이션합니다. 친구 지도에 빠른 전환 버튼이 추가됩니다.";
+"SAVED_LOCATIONS" = "저장된 위치";
+"search_places" = "장소 검색";
+"select_location" = "위치 선택";
+"custom_location" = "사용자 지정 위치";
+"system_default" = "시스템 기본값";
+"current_location" = "현재 위치";
+"enable_fake_location" = "가짜 위치 활성화";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "기타 프로젝트";
+"CREDITS" = "크레딧";
+"SPECIAL_THANK" = "특별 감사";
+"LOCALIZATION" = "번역";
+"icon_by" = "아이콘 제작";
+"DEVELOPER" = "개발자";
+"WELCOM_ALERT" = "설정을 변경하려면 YTKPlus 탭에서 톱니바퀴 아이콘을 누르세요.";
+
+/* compatibility... */
+"compatible_legacy_ver" = "호환됨 (구형 iOS)";
+"not_compatible_ver" = "호환되지 않음";
+"unknown_ver" = "알 수 없음";
+"compatible_ver" = "호환됨";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ 모든 데이터 삭제";
+"clear_all_data_disc" = "이 작업은 키체인, 환경설정 및 캐시된 파일을 포함한 모든 앱 데이터를 삭제합니다. 이 작업은 되돌릴 수 없습니다!";
+"delete_everything" = "모두 삭제";
+"data_cleared" = "✅ 데이터 삭제됨";
+"data_cleared_disc" = "모든 앱 데이터가 성공적으로 삭제되었습니다. 앱이 이제 재시작됩니다.";
+
+/* clearCaches */
+"clearonstartup" = "시작 시 캐시 삭제";
+"clearcache" = "캐시 삭제";
+"On" = "켜기";
+"Off" = "끄기";
+
+"CLEARING_CACHE" = "캐시 삭제 중...";
+"PLEASE_WAIT" = "잠시 기다리세요...";
+"CACHE_CLEARED" = "캐시가 성공적으로 삭제되었습니다!";
+"CLEAR_CACHE" = "캐시 삭제";
+"CALCULATING" = "계산 중...";
+
+/* Unlink Email from License */
+"unlink_email" = "이메일 연결 해제";
+"unlink_confirmation" = "연결 해제 확인";
+"unlink_email_explanation" = "이 이메일을 라이선스에서 제거하시겠습니까?";
+"unlink" = "연결 해제";
+"error_unlink" = "오류";
+"error_unlink_desc" = "이메일 연결 해제에 실패했습니다.";
+"success_unlink" = "성공";
+"success_unlink_desc" = "이메일 연결이 성공적으로 해제되었습니다.";
+
+/* license prompt */
+"license_option" = "라이선스 옵션";
+"license_option_disc" = "옵션을 선택하세요:";
+"activate_new_license" = "새 라이선스 활성화";
+"restore_license" = "라이선스 복원";
+"renew_license" = "라이선스 갱신";
+"buy_license" = "라이선스 구매";
+"activate_new_license_disc" = "이메일과 라이선스 키를 입력하세요.";
+"email" = "이메일";
+"license_key" = "라이선스 키";
+"activate" = "활성화";
+"invalid_email" = "잘못된 이메일";
+"invalid_email_disc" = "올바른 이메일 주소를 입력하세요.";
+"invalid_license" = "잘못된 라이선스";
+"license_key_empty" = "라이선스 키를 입력해야 합니다.";
+"license_key_length_wrong" = "잘못된 길이입니다.\n올바른 키를 입력하세요.";
+
+"restore_notice" = "복원 과정이 업데이트되었습니다";
+"restore_notice_desc" = "복원 과정이 변경되었습니다. 라이선스를 복원한 후, 키를 복사한 뒤 활성화 화면으로 돌아가 이메일과 키를 사용해 다시 활성화해야 합니다.";
+"restore_license_disc" = "라이선스와 연결된 이메일을 입력하세요.";
+"restore" = "복원";
+"copy_license_key" = "키 복사";
+"license_key_copied_to_clipboard" = "라이선스 키가 복사되었습니다.";
+"license_details" = "라이선스 세부정보";
+"license_details_disc" = "키: %@\n\n만료일: %@\n\n%@";
+"license_restored_successfully" = "라이선스가 활성화되었습니다.";
+"license_restored" = "라이선스 복원됨";
+"restore_failed" = "복원 실패";
+
+"enter_license_key" = "라이선스 키 입력";
+"enter_license_key_disc" = "라이선스 키를 입력하여 인증하세요.";
+"license_key_authenticated" = "라이선스가 인증되었습니다. 만료일: %@";
+"authentication_successful" = "인증 성공";
+"key_used_on_another_device" = "다른 기기에서 이미 사용 중입니다.";
+"key_is_in_use_on_another_device" = "이 키는 이미 다른 기기에서 활성화되었습니다.";
+"email_associated_with_another_key" = "이메일이 다른 라이선스와 연결되어 있습니다.";
+"authentication_failed" = "인증 실패";
+"email_associated_with_defferent_key" = "이메일이 다른 키와 연결되어 있습니다.";
+"key_expired" = "키 만료됨";
+"license_expired" = "라이선스 만료됨";
+"license_expired_disc" = "라이선스가 만료되었습니다. 갱신하세요.";
+"license_verification_failed" = "라이선스 인증 실패";
+"no_internet" = "인터넷 연결 없음";
+"no_internet_disc" = "인증하려면 인터넷 연결이 필요합니다.";
+"license_disc" = "입력한 라이선스 키가 유효하지 않습니다.";
+
+/* other stuff */

@@ -1,0 +1,570 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+/* Turkish by Orhan ASLAN & ChatGPT */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "Genel Etkinleştirme";
+"GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için sağ üstteki düğmeye dokunun.";
+
+/* downloading global switch */
+"DOWNLOADING" = "İndirme Özelliğini Etkinleştir";
+"glob_overlay_button" = "Oynatıcı içindeki görünür düğmeler.";
+"overlay_button_disc" = "İndirme, reklamsız, arka planda oynatma vb.";
+"first_cleaner_disc" = "Temizleme seçeneklerini görmek için dişli simgesine 3 saniye basılı tutun!";
+
+"fix_playback_issue" = "🔧 Oynatma sorunlarını düzelt ve hesap kurtarma";
+"fix_playback_issue_disc" = "🎯 \"Bir şeyler yanlış gitti\" hatalarını ve akış kesilmelerini düzeltir.";
+"fix_playback_issue_disc_footer" = "✅ Birden fazla hesapta test edildi — birkaç gün içinde normal oynatma durumuna döndü.\n\n📍 En iyi sonuçlar için:\n• YouTube için konum hizmetlerini aç\n• VPN kullanma\n\nBu iki adım kritik öneme sahiptir.\n\n⚠️ Bu indirmeyi devre dışı bırakır...\n\n⚠️ Sadece sorun yaşıyorsan aç. Sorun yoksa kapalı bırak.";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "İndirme Yöneticisi";
+"VIDEO_TAB_BAR" = "Video";
+"AUDIO_TAB_BAR" = "Ses";
+"SHORTS_TAB_BAR" = "Shorts";
+
+/* Startup page section */
+"STARTUP_PAGE" = "Varsayılan Başlangıç Sayfası";
+"DEFAULT_PAGE" = "Ana Sayfa";
+
+"HOME" = "Ana Sayfa";
+"EXPLORE" = "Keşfet";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "Abonelikler";
+"LIBRARY" = "Kütüphane";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "Oynatıcı Kontrolleri";
+"overlay_player" = "Katmanlı Oynatıcı";
+"speed_index" = "Oynatma Hızı";
+"default_speed_index" = "Varsayılan Oynatma Hızı";
+"default_speed_index_disc" = "Varsayılan hızı korur ve çakışmaları önler.";
+"pip_player" = "PiP Oynat";
+"short_player" = "Shorts Oynatıcı";
+"loop_toggle" = "Döngü Düğmesi Ekle";
+
+"yt_video_quality_wifi" = "Wi-Fi Üzerinden Video Kalitesi";
+"yt_video_quality_celluar" = "Mobil Veri Üzerinden Video Kalitesi";
+"auto" = "Otomatik";
+"yt_speed_playback" = "Varsayılan Oynatma Hızı";
+"normal" = "Normal";
+"default" = "Varsayılan";
+
+"image" = "Resmi Kaydet";
+"information" = "Bilgiyi Kopyala";
+"copy_title" = "Başlığı Kopyala";
+"copy_describtion" = "Açıklamayı Kopyala";
+"copied" = "Panoya kopyalandı";
+
+"save_pfP" = "Profil Resmini Kaydet";
+"copy_ptext" = "Gönderi Metnini Kopyala";
+"save_img" = "Resmi Kaydet";
+"copy_comment" = "Yorumu Kopyala";
+"pip_mode" = "Harici Oynatıcıda Aç";
+"ios_system_player" = "iOS Sistem Oynatıcısı";
+"infuse_player" = "Infuse Oynatıcı";
+"vlc_player" = "VLC Oynatıcı";
+"infuse_not_installed" = "Infuse yüklü değil";
+"vlc_not_installed" = "VLC yüklü değil";
+"pip_mode_desc" = "PiP modunu kullanmak için 'Arka Planda Oynatma'yı etkinleştirin.";
+"mini_player2" = "Mini Oynatıcı";
+"floating_mini_player" = "Yüzen Mini Oynatıcı";
+
+/* backup and restore */
+"backup_and_restore" = "Yedekleme ve Geri Yükleme";
+"cretae_a_backup" = "Yedek Oluştur";
+"create_a_backup_disc" = "Tüm video ve sesleri 'Dosyalar' uygulamasına yedek olarak aktarır.";
+"restore_backup" = "Yedeği Geri Yükle";
+"restore_backup_disc" = "Yedek yalnızca 'Dosyalar' uygulamasından geri yüklenebilir.";
+"backup_prepared" = "Yedek hazırlanıyor...";
+"create_failed" = "Yedekleme Başarısız";
+"failed_create_disc" = "Yedek oluşturulamadı. Lütfen tekrar deneyin.";
+"restoring_backup" = "Yedek geri yükleniyor...";
+"restore_complete" = "Yükleme Tamamlandı";
+"restore_complete_disc" = "YTKPlus yedeği başarıyla geri yüklendi.";
+"restore_failed_disc" = "Yükleme başarısız. Lütfen tekrar deneyin.";
+"restore_failed" = "Yükleme Başarısız";
+"restore_backup_confirm" = "Geri Yükle";
+"create" = "Oluştur";
+"create_backup" = "Yedek oluşturmak istiyor musunuz?";
+"restore_backup_confirm_disc" = "YTKPlus_Backup.zip dosyasını geri yüklemek istiyor musunuz?\nBu işlem geri alınamaz!";
+"invalid_backup_file" = "Geçersiz Yedek Dosyası";
+"invalid_backup_file_disc" = "Lütfen YTKPlus_Backup.zip dosyasını seçin.";
+"Backup_saved" = "Yedek başarıyla Dosyalar uygulamasına kaydedildi.";
+"Backup_not_saved" = "Uyarı: Yedek Dosyalar uygulamasına kaydedilmedi.";
+
+/* import Media */
+"import_media" = "Medya İçe Aktar";
+"import_media_disc" = "Video ve sesleri 'Dosyalar' uygulamasından içe aktarın. Birden fazla dosya seçimi desteklenir.";
+"choose_media_type" = "Medya Türü Seç";
+"successfully_imported_files" = "Başarıyla içe aktarılan dosya: %@";
+"failed_to_import_files" = "Aktarılamayan dosya: %@";
+"import_result" = "Aktarım Sonucu";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "Davranış";
+"SB_SKIP" = "Atla";
+"SB_ASK" = "Sor";
+"sub_value" = "Bildirim Süresi: %.lf";
+/* popup */
+"UNSKIP" = "Geri Al";
+"SKIP" = "Atla";
+"SEGMENT_SKIPPED" = "Sponsor bölümü atlandı";
+"FOUND_SEGMENT" = "Sponsor bölümü bulundu";
+"AudioNotificationOnSkip" = "Atlama sırasında ses çal";
+
+/* shorts section */
+"short_fullscreen" = "Tam Ekran";
+"short_auto_skip" = "Shorts Otomatik Atlama";
+"USE_PREM_LOGO" = "Premium Logoyu Kullan";
+"cast_confirm" = "Yayın Onayı";
+"video_available" = "Video Mevcut";
+"videos_available" = "Videolar Mevcut";
+"audio_available" = "Ses Mevcut";
+"audios_available" = "Sesler Mevcut";
+"short_available" = "Short Mevcut";
+"shorts_available" = "Shorts Mevcut";
+
+/* general section */
+"VIDEO_PLAYER" = "Video Oynatıcı Seçenekleri";
+"OVERLAY_OPTIONS" = "Katman Seçenekleri";
+"STREAM_OPTIONS" = "Yayın Seçenekleri";
+"IPAD_OPTIONS" = "iPad Seçenekleri";
+"NAVIGATION_BAR" = "Gezinme Çubuğu Seçenekleri";
+"SHORTS_OPTION" = "Shorts Seçenekleri";
+"DOWNLOAD_OPTIONS" = "Ek İndirme Seçenekleri";
+"TAB_BAR_OPTIONS" = "Sekme Çubuğu Seçenekleri";
+"MISCELLANEOUS" = "Genel";
+
+/* general section switch */
+"OLED_DARK_MODE" = "OLED Karanlık Modu";
+"PLAY_IN_BACKGROUND" = "Arka Planda Oynat";
+"NO_ADVERTISMENT" = "Reklamları Kaldır";
+"NO_AGE_RESTRICTION" = "Yaş Sınırını Kaldır";
+"HIDE_YT_SHORTS" = "Shorts'u Akıştan Gizle";
+"DISABLE_CAPTIONS" = "Altyazıları Devre Dışı Bırak";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "Video Oynatıcı";
+"HIDE_SUGGESTED_VIDEO" = "Önerilen Videoları Gizle";
+"COMMENTS" = "Yorumlar";
+"HIDE_COMMENTS" = "Yorumları Gizle";
+"HIDE_COMMENTS_PREVIEW" = "Yorum Önizlemesini Gizle";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Spoiler yorumları gizler.";
+"HIDE_COMMENTS_GUIDLINES" = "Yorum Kurallarını Gizle";
+"HIDE_COMMUNITY_TEXT_INFO" = "Üstteki topluluk metnini gizle.";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "Katman";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Durum Çubuğunu Göster";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Çentikli cihazlar ve iPad desteklenmez.";
+"DISABLE_DOUBLE_TAP" = "Çift Dokunmayı Devre Dışı Bırak";
+"DISABLE_CONTINUE_WATCHING" = "İzlemeye Devam Et'i Devre Dışı Bırak";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Çok uzun videolarda görünür.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Hızlı İşlemleri Gizle";
+"HIDE_PLAYERBAR_WAVE" = "Zaman Çubuğu Dalgalarını Gizle";
+"HIDE_PLAYERBAR_WAVE_INFO" = "İzlenme ısı haritasını gizler.";
+"SWIPE_TO_HIDE_PANEL" = "Paneli Gizlemek İçin Kaydır";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Tam ekranda sağdan sola kaydırın.";
+"DISABLE_PINCH_TO_ZOOM" = "Yakınlaştırmayı Devre Dışı Bırak";
+"MEDIA_CONTROLLER" = "Medya Denetleyici";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Oynat/Duraklat Düğmesini Her Zaman Göster";
+"SHOW_MEDIA_CONTROLLER" = "Tüm Denetimleri Her Zaman Göster";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Karanlık Arka Planı Gizle";
+"KEEP_CAPTION_ON" = "Altyazıları Açık Tut";
+"KEEP_CAPTION_ON_INFO" = "Video oynatılırken otomatik olarak gösterilir.";
+"PREVIUOS_AND_NEXT_BUTTON" = "Önceki/Sonraki Düğmeleri";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Bu Düğmeleri Devre Dışı Bırak";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Kompakt Düğmeler";
+"PLAYER_BAR_NEXT_BUTTON" = "Zaman Kodu Yanına 'Sonraki' Düğmesi Ekle";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Bu Düğmeleri Gizle";
+"HIDE_BACK_BUTTON_SHADOW" = "Düğme Gölgelerini Gizle";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "İleri/Geri ile Değiştir";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "İleri/Geri sarma düğmeleriyle değiştirir.";
+"HIDE_ITEMS" = "Öğeleri Gizle";
+"HIDE_VOLUME_BAR" = "Ses Çubuğunu Gizle";
+"HIDE_VOLUME_BAR_INFO" = "Yatay modda beyaz ses çubuğunu gizler.";
+"HIDE_INFO_CARD" = "Bilgi Kartlarını Gizle";
+"HIDE_WATER_MARK" = "Filigranı Gizle";
+"HIDE_AUTOPLAY_BUTTON" = "Otomatik Oynatma Düğmesini Gizle";
+"HIDE_CAPTIONS_BUTTON" = "Altyazı Düğmesini Gizle";
+"HIDE_PLAY_PUASE" = "Oynat/Duraklat'ı Gizle";
+"HIDE_MORE_GEAR_ICON" = "Ayarlar Düğmesini Gizle";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Yayınlarda Sohbet Düğmesini Gizle";
+"HIDE_CAST_BUTTON" = "Yayın Düğmesini Gizle";
+"HIDE_ENDSCREEN_VIDEOS" = "Son Ekran Videolarını Gizle";
+"HIDE_RELATED_VIDEOS" = "Benzer Videoları Gizle";
+"HIDE_LANDSCAPE_COMMENTS" = "Yatay Yorumları Devre Dışı Bırak";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Yatay modda yorumlar tamamen devre dışı bırakılır.";
+"SHOW_PROGRESS_BAR" = "İlerleme Çubuğunu Görünür Tut";
+"SHOW_PROGRESS_BAR_INFO" = "Benzer video kaydırmasını devre dışı bırakır.";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "Klasik Kalite Modunu Etkinleştir";
+"LEGACY_QUALITY_MODE_INFO" = "Eski kalite seçim menüsünü geri getirir.";
+"PICTURE_IN_PICTURE_PIP" = "Resim İçinde Resim (PiP)";
+"ENABLE_PIP" = "PiP Özelliğini Etkinleştir";
+"ENABLE_PIP_INFO" = "Video oynatıcıya PiP simgesi ekler.";
+"DOUBLE_TAP" = "Çift Dokunma Seçenekleri";
+"CUSTOM_SKIP_DURATION" = "Özel Atlama Süresi";
+"VALUE_CHANGES_JB" = "Saniye: %.lf";
+"VALUE_CHANGES" = "Saniye: 10";
+"STREAMING_SECTION" = "Yayın";
+"PLAYBACK_SPEED" = "Ek Oynatma Hızları";
+"PLAYBACK_SPEED_INFO" = "Video ayarları → Hız menüsünden erişilir.";
+"DISABLE_AUTOPLAY_VIDEOS" = "Otomatik Oynatmayı Devre Dışı Bırak";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Mobil Veri Üzerinden HD Oynat";
+
+/* iPad section */
+"IPAD_SECION" = "iPad Modu";
+"IPADOS_MODE" = "iPadOS Modunu Etkinleştir";
+"DISABLE_DRAG_AND_DROP" = "Sürükle-Bırak Özelliğini Devre Dışı Bırak";
+"HIDE_CHANNEL_CIRCLES" = "Kanal Simgelerini Gizle";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Abonelik sekmesindeki kanal simgelerini gizler.";
+"MINI_PLAYER_ASPECT_RATIO" = "Mini Oynatıcı Görünümü";
+"USE_ASPECT_RATIO" = "Tam Görünümü Kullan";
+"USE_ASPECT_RATIO_INFO" = "iPad stili mini oynatıcıda desteklenmez.";
+"MINI_PLAYER" = "iPad Stili Mini Oynatıcı";
+"REDEFIND_MINI_PLAYER" = "Ortalanmış Mini Oynatıcı";
+"MINI_PLAYER_IPAD_MODE" = "Sağda Mini Oynatıcı";
+
+/* navbar section */
+"STATUS_BAR" = "Durum Çubuğu";
+"HIDE_STATUS_BAR" = "Durum Çubuğunu Gizle";
+"CHANNEL_SECTIONS" = "Kanal Bölümü";
+"STICKY_NAV_BAR" = "Kategorileri Gizle";
+"SHOW_YTKPLUS_ICON" = "YTKPlus Simgesini Göster";
+"HIDE_ITEMS_NAV_BAR" = "Öğeleri Gizle";
+"SHOW_YTKPlus_Icon" = "YTKPlus Simgesini Göster";
+"HIDE_YT_LOGO" = "YouTube Logosunu Gizle";
+"HIDE_NOTIFICATIONS_BILL" = "Bildirimleri Gizle 🔕";
+"HIDE_ACCOUNT" = "Hesabı Gizle";
+"HIDE_SEARCH" = "Aramayı Gizle";
+"HIDE_CAST_BUTTON" = "Yayın Düğmesini Gizle";
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "Alt İlerleme Çubuğunu Göster";
+"HIDE_ELEMNTS" = "Öğeleri Gizle";
+"HIDE_PAUSE_CARD" = "Duraklatma Kartını Gizle";
+"HIDE_LIKE_BUTTON" = "Beğen Düğmesini Gizle";
+"HIDE_DISLIKE_BUTTON" = "Beğenme Düğmesini Gizle";
+"HIDE_COMMENTS_BUTTON" = "Yorum Düğmesini Gizle";
+"HIDE_SHARE_BUTTON" = "Paylaş Düğmesini Gizle";
+"HIDE_REMIX_BUTTON" = "Remix Düğmesini Gizle";
+"HIDE_AVATAR_BUTTON" = "Profil Simgesini Gizle";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "Ek İndirme Seçenekleri";
+"LOCAL_DOWNLOADING" = "Yerel İndirme Modu";
+"LOCAL_DOWNLOADING_INFO" = "Videoya uzun basarak indirme menüsünü açın.";
+"HIDE_DOWNLOAD_BUTTON" = "İndirme Düğmesini Gizle";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "YouTube’un varsayılan düğmesini gizler.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "İndirilen Videolarda Süre Sınırını Kaldır";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Varsayılan YouTube indirmeleri için geçerlidir.";
+"DOWNLOAD_SECTION_INFO" = "Not: Aynı kalite birden fazla görünüyorsa üstteki seçeneği seçin. Dosyalar Fotoğraflar’a kaydedilir. Uzun basma jesti devre dışı kalır. 4K etkinse indirme özelliği kapatılır.";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "Sekme Çubuğu";
+"TABS_SHRINKED_BUTTOM" = "Küçültülmüş Sekmeler (Alt)";
+"TABS_SHRINKED_SMART" = "Akıllı Küçültülmüş Sekmeler";
+"DISABLE_CREATE_BUTTON" = "'+' Düğmesini Devre Dışı Bırak";
+"HIDE_TAB_LABELS" = "Sekme Etiketlerini Gizle";
+"PREVENT_OPEN_IN_SHORTS" = "Shorts’ta Açılmayı Engelle";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "YouTube Shorts sekmesindeyken kapanırsa oluşur.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Shorts’u Keşfet ile Değiştir";
+"HIDE_TABS" = "Sekmeleri Gizle";
+"HIDE_EXPLORE_TAB" = "Keşfet Sekmesini Gizle";
+"HIDE_SHORTS_TAB" = "Shorts Sekmesini Gizle";
+"HIDE_CREATE_TAB" = "Oluştur Sekmesini Gizle";
+"HIDE_SUBSCRIPTION_TAB" = "Abonelik Sekmesini Gizle";
+"HIDE_LIBRARY_TAB" = "Kütüphane Sekmesini Gizle";
+"HIDE_ALL_TAB" = "Tüm Sekmeleri Gizle";
+"MAIN_TAB" = "ANA";
+"ACTIVE_TABS" = "AKTİF SEKMELER";
+"INACTIVE_TABS" = "PASİF SEKMELER";
+"CANT_REMOVE" = "Kaldırılamaz";
+"CANT_REMOVE_DESC" = "En az bir aktif sekmeye ihtiyacınız var.";
+"INACTIVE_TABS_TXT" = "%@ (pasif)";
+"TABS_INACTIVE" = "Sekmeler pasif";
+"TABS_INACTIVE_DESC" = "\"%@\" pasif. Önce aktif sekmelere ekleyin.";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "Diğer";
+"USE_STOCK_VOLUME_HUD" = "Sistem Ses Göstergesini Kullan";
+"USE_STOCK_VOLUME_HUD_INFO" = "Yalnızca yatay modda çalışır.";
+"HIDE_SEARCHED_HISTORY" = "Arama Geçmişini Gizle";
+"NOT_TOPIC_SECTION" = "Konu Bölümünü Gizle";
+"HIDE_PREMIUM_POPUP" = "Premium Açılır Penceresini Gizle";
+"HIDE_YT_UPDATE_POPUP" = "Güncelleme Uyarısını Gizle";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Zorunlu güncelleme penceresini engeller.";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Tüm Videolar İçin Mini Oynatıcı";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Çocuk videolarında da çalışır.";
+"HIDE_HUD_ALERTS" = "Bildirimleri Gizle";
+"HIDE_HUD_ALERTS_INFO" = "Beğenmeme gibi küçük bildirimleri gizler.";
+"CLASSIC_SHARE" = "Klasik Paylaşım Menüsü";
+"HIDE_LINE_SEPERATOR" = "Çizgi Ayraçları Gizle";
+"ROUND_ALL_VIEW_CORNERS" = "Tüm Köşeleri Yuvarla";
+"DISABLE_DARK_MODE" = "Karanlık Modu Devre Dışı Bırak";
+"HIDE_INCLUDE_PAID_PROMO" = "Reklam Etiketini Gizle";
+"DISABLE_RTL" = "Sağdan Sola Dilleri Devre Dışı Bırak";
+"OTHERS" = "Ana Akış";
+"HIDE_PLAYLIST" = "Oynatma Listelerini Gizle";
+"PLAYLIST_INFO" = "iPad stilinde desteklenmez.";
+"HIDE_COVID_NEWS" = "COVID / Haberleri Gizle";
+"COVID_NEWS_INFO" = "Ana sayfadaki COVID/haber bölümlerini kaldırır.";
+"HIDE_FILTER_TAGS" = "Üstteki Filtre Etiketlerini Gizle";
+
+/* global action title */
+"OK" = "Tamam";
+"YES" = "Evet";
+"NO" = "Hayır";
+"ERROR" = "Hata";
+"loading_pip" = "PiP yükleniyor...";
+"APP_RESTART_REQUIRED" = "Değişiklikleri uygulamak için YouTube’u yeniden başlatın.";
+"FILZA_NOT_INSTALLED_ALERT" = "Uygulama yüklü değil.";
+"NO_DATA" = "İndirme Yok";
+"CANCEL" = "İptal";
+"DISMISS" = "Kapat";
+"DELETED" = "Silindi";
+"SAVED" = "Kaydedildi";
+"SUCCESS" = "Başarılı";
+"VIDEO" = "Videoyu İndir";
+"AUDIO" = "Sesi İndir";
+"RENAME" = "Yeniden Adlandır";
+"RENAME_FILE" = "Dosyayı Yeniden Adlandır";
+"RENAME_NEW_NAME" = "Yeni adı girin:";
+"RENAME_PLACEHOLDER" = "Yeni video adı";
+"RENAME_PLACEHOLDER_AUDIO" = "Yeni ses adı";
+"PLAY" = "Varsayılan Oynatıcı";
+"SHARE" = "Paylaş";
+"VIEW_IN_FILZA" = "Filza’da Görüntüle";
+"DELETE" = "Sil";
+"MORE_OPTION" = "Diğer Seçenekler";
+"MAIN_OPTION" = "Ana Seçenekler";
+"DELETE_ALL" = "Tümünü Sil";
+"SAVE_ARTWORK" = "Kapak Görselini Kaydet";
+"SAVE_TO_PHOTOS" = "Fotoğraflara Kaydet";
+"ARE_YOU_SURE" = "Tüm öğeleri silmek istediğinize emin misiniz?";
+"NOTE" = "Not";
+"SAVE_FAILED" = "Kaydedilemedi!";
+"SAVE_TO_PHOTOS_FAILED" = "Fotoğraflar uygulamasına izin verildiğinden emin olun.";
+"DELETING_VIDEO" = "Video Silinsin mi?";
+"DELETING_AUDIO" = "Ses Silinsin mi?";
+"AUTO_LANGUAGE" = "Otomatik";
+"SELECT_LANGUAGE" = "Dil Seçin";
+"FAQ" = "SSS";
+"action_undone" = "Bu işlem geri alınamaz!";
+
+"toast_downloading" = "İndiriliyor...";
+"toast_downloading_audio" = "Ses indiriliyor...";
+"toast_downloading_video" = "Video indiriliyor...";
+"toast_merging" = "Birleştiriliyor...";
+"toast_preparing" = "Hazırlanıyor... : 0%";
+"toast_download_cancelled" = "İndirme iptal edildi.";
+
+"video_saved" = "✓ Video kaydedildi - %@";
+"video_downloaded" = "🎬 ✓ Video indirildi: %@";
+"m4a_smaller" = "🎵 M4A (AAC Ses • Daha Küçük)";
+"mp3_larger" = "🎵 MP3 (Evrensel • Daha Büyük)";
+"audio_saved" = "✓ %@ sesi %@ olarak kaydedildi";
+"audio_downloaded" = "🎵 ✓ Ses indirildi (%@)";
+"shorts_downloaded" = "🎬 ✓ Shorts indirildi";
+"queued" = "📥 Kuyruğa eklendi: ";
+"video_queuad" = "🎬 📥 Video kuyruğa eklendi: ";
+"audio_queuad" = "🎵 📥 Ses kuyruğa eklendi: ";
+"starting" = "🔄 Başlatılıyor: %@";
+"audio_progress" = "🎵 Ses: %@";
+"video_progress" = "🎬 Video: %@";
+"converting" = "⚙️ Dönüştürülüyor: %@";
+"merging" = "⚙️ Birleştiriliyor: %@";
+"download_cancelled" = "❌ İndirme iptal edildi: %@";
+"quea_cancelled" = "❌ Kuyruktan kaldırıldı";
+"cancelled" = "❌ İptal edildi: %@";
+"loop_disabled" = "🔁 Döngü devre dışı";
+"loop_enabled" = "🔂 Döngü etkin";
+"Auto_Skip" = "Otomatik Geç";
+"Exit_Fullscreen" = "Tam Ekrandan Çık";
+
+"play_next" = "Sonraki Oynat";
+"close" = "Kapat";
+
+"VIDEO_INFO" = "Video Bilgisi";
+"FILE_SIZE" = "Dosya Boyutu";
+"DURATION" = "Süre";
+"DIMENSIONS" = "Çözünürlük";
+"BITRATE" = "Bit Hızı";
+"FRAME_RATE" = "Kare Hızı";
+"CREATED" = "Oluşturuldu";
+"AUDIO_INFO" = "Ses Bilgisi";
+"FORMAT" = "Biçim";
+"SAMPLE_RATE" = "Örnekleme Hızı";
+"CHANNELS" = "Kanal Sayısı";
+
+"year_ago" = "%ld yıl%@ önce";
+"month_ago" = "%ld ay%@ önce";
+"week_ago" = "%ld hafta%@ önce";
+"day_ago" = "%ld gün%@ önce";
+"hour_ago" = "%ld saat%@ önce";
+"minute_ago" = "%ld dakika%@ önce";
+"s" = "sn";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
+"sleep_timer" = "Uyku Zamanlayıcısı";
+"time_calculater" = "%ld dk";
+"5_min" = "5 dakika";
+"10_min" = "10 dakika";
+"15_min" = "15 dakika";
+"20_min" = "20 dakika";
+"30_min" = "30 dakika";
+"45_min" = "45 dakika";
+"1_hour" = "1 saat";
+"end_of_track" = "Parça sonu";
+"min_left" = "%ld dakika kaldı";
+"sleep_timer_activated" = "Uyku zamanlayıcı etkin - oynatma duraklatıldı";
+"custom_time" = "Özel süre";
+"enter_duration_desc" = "Süre girin (örn: 20m, 1h, 1h 30m, 90)";
+"set" = "Ayarla";
+"invalid_input" = "Geçersiz giriş";
+"invalid_input_desc" = "Şu formatları kullanın: 20m, 1h, 1h 30m, 90";
+
+/* gestures */
+"gestures_control" = "Hareket Kontrolü";
+"brightness" = "Parlaklık";
+"left" = "Sol";
+"right" = "Sağ";
+"disabled" = "Devre Dışı";
+"volume" = "Ses";
+"hold_to_seek" = "Basılı Tutarak Sar";
+"seek_duration" = "Sarma Aralığı";
+"seconds" = "%.0f saniye";
+"volume_brightness_gesture" = "Ses ve Parlaklık Hareketleri";
+"seek_settings" = "Sarma Ayarları";
+"gestures_config_description" = "Ekranın hangi tarafının ses ve parlaklığı kontrol edeceğini ayarlayın.\n\nİpucu:\n1. Dikey modda köşeden aşağı kaydırın.\n2. Tam ekranda alt kısımdan kaydırın.";
+"hold_to_seek_description" = "Hızlı sarma için ekranın sol veya sağ tarafına basılı tutun.";
+"brightness_gesture_left" = "Parlaklık";
+"gesture_left_side" = "Sol Taraf";
+"cancel" = "İptal";
+"volume_gesture_right" = "Ses";
+"gesture_right_side" = "Sağ Taraf";
+
+/* icon themes */
+"icon_changed" = "“YouTube” için\noù değiştirildi.";
+"select_icon_theme" = "Simge temasını seç";
+"icon_not_available" = "Özel simgeler kullanılamıyor";
+"icon_not_available_disc" = "Bu YouTube uygulamasında özel simgeler bulunmuyor. Uygulama simgesini değiştirmek için IPA yüklemeniz gerekir.";
+
+/* fake location */
+"fake_location" = "Sahte Konum";
+"save" = "Kaydet";
+"location_name" = "Konum Adı";
+"enter_location_name" = "Ülke: %@\nBu konum için bir ad girin";
+"unknown" = "Bilinmiyor";
+"save_location" = "Konumu Kaydet";
+"getting_location_info" = "Konum bilgisi alınıyor...";
+"loading" = "Yükleniyor...";
+"selected_location" = "Seçilen Konum";
+"delete" = "Sil";
+"saved_location_disc" = "Kaydedilen konumlarını yönet ve birini aktif konum olarak ayarla. Silmek için kaydır.";
+"enable_fake_location_disc" = "Gerçek konumun yerine YouTube içinde özel bir konum simüle eder. Arkadaş Haritasına hızlı geçiş için bir buton ekler.";
+"SAVED_LOCATIONS" = "KAYDEDİLEN KONUMLAR";
+"search_places" = "Yer ara";
+"select_location" = "Konum seç";
+"custom_location" = "Özel Konum";
+"system_default" = "Sistem Varsayılanı";
+"current_location" = "Mevcut Konum";
+"enable_fake_location" = "Sahte Konumu Etkinleştir";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Diğer Projeler";
+"CREDITS" = "Katkıda Bulunanlar";
+"SPECIAL_THANK" = "Özel Teşekkürler";
+"LOCALIZATION" = "Yerelleştirmeler";
+"icon_by" = "Simge tasarımı";
+"DEVELOPER" = "Geliştirici";
+"WELCOM_ALERT" = "Ayarları değiştirmek için YTKPlus sekmesine gidin ve dişli simgesine dokunun.";
+
+/* compatibility... */
+"compatible_legacy_ver" = "Uyumlu (Eski iOS)";
+"not_compatible_ver" = "Uyumlu değil";
+"unknown_ver" = "Bilinmiyor";
+"compatible_ver" = "Uyumlu";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Tüm Verileri Temizle";
+"clear_all_data_disc" = "Bu işlem, anahtarlık, tercihler ve önbelleğe alınmış dosyalar dahil olmak üzere TÜM uygulama verilerini siler. Bu işlem geri alınamaz!";
+"delete_everything" = "Her Şeyi Sil";
+"data_cleared" = "✅ Veriler Temizlendi";
+"data_cleared_disc" = "Tüm uygulama verileri başarıyla silindi. Uygulama şimdi yeniden başlatılacak.";
+
+/* clearCaches */
+"clearonstartup" = "Başlangıçta Önbelleği Temizle";
+"clearcache" = "Önbelleği Temizle";
+"On" = "Açık";
+"Off" = "Kapalı";
+
+"CLEARING_CACHE" = "Önbellek temizleniyor...";
+"PLEASE_WAIT" = "Lütfen bekleyin...";
+"CACHE_CLEARED" = "Önbellek başarıyla temizlendi!";
+"CLEAR_CACHE" = "Önbelleği Temizle";
+"CALCULATING" = "Hesaplanıyor...";
+
+/* Unlink Email from License */
+"unlink_email" = "E-postayı Bağlantıdan Kaldır";
+"unlink_confirmation" = "Kaldırmayı Onayla";
+"unlink_email_explanation" = "Bu e-postayı lisansınızdan kaldırmak istediğinizden emin misiniz?";
+"unlink" = "Bağlantıyı Kaldır";
+"error_unlink" = "Hata";
+"error_unlink_desc" = "E-posta bağlantısı kaldırılamadı.";
+"success_unlink" = "Başarılı";
+"success_unlink_desc" = "E-posta başarıyla kaldırıldı.";
+
+/* license prompt */
+"license_option" = "Lisans Seçenekleri";
+"license_option_disc" = "Bir seçenek seçin:";
+"activate_new_license" = "Yeni Lisansı Etkinleştir";
+"restore_license" = "Lisansı Geri Yükle";
+"renew_license" = "Lisansı Yenile";
+"buy_license" = "Lisans Satın Al";
+"activate_new_license_disc" = "E-posta adresinizi ve lisans anahtarınızı girin.";
+"email" = "E-posta";
+"license_key" = "Lisans Anahtarı";
+"activate" = "Etkinleştir";
+"invalid_email" = "Geçersiz E-posta";
+"invalid_email_disc" = "Geçerli bir e-posta adresi girin.";
+"invalid_license" = "Geçersiz Lisans";
+"license_key_empty" = "Lisans anahtarı boş olamaz.";
+"license_key_length_wrong" = "Anahtar uzunluğu hatalı.\nLütfen geçerli bir anahtar girin.";
+
+"restore_notice" = "Kurtarma Süreci Güncellendi";
+"restore_notice_desc" = "Kurtarma süreci değişti. Lisansını geri yükledikten sonra anahtarını kopyalayıp aktivasyon ekranına dönmelisin ve e-posta ile anahtarı tekrar kullanarak etkinleştirmelisin.";
+"restore_license_disc" = "Lisansla ilişkili e-postayı girin.";
+"restore" = "Geri Yükle";
+"copy_license_key" = "Anahtarı Kopyala";
+"license_key_copied_to_clipboard" = "Lisans anahtarı kopyalandı.";
+"license_details" = "Lisans Detayları";
+"license_details_disc" = "Anahtar: %@\n\nBitiş Tarihi: %@\n\n%@";
+"license_restored_successfully" = "Lisans aktif.";
+"license_restored" = "Lisans Geri Yüklendi";
+"restore_failed" = "Geri Yükleme Başarısız";
+
+"enter_license_key" = "Lisans Anahtarını Girin";
+"enter_license_key_disc" = "Doğrulama için lisans anahtarınızı girin.";
+"license_key_authenticated" = "Lisans doğrulandı. Bitiş: %@";
+"authentication_successful" = "Doğrulama Başarılı";
+"key_used_on_another_device" = "Lisans başka bir cihazda kullanılıyor.";
+"key_is_in_use_on_another_device" = "Bu anahtar başka bir cihazda etkin.";
+"email_associated_with_another_key" = "Bu e-posta başka bir lisansla ilişkili.";
+"authentication_failed" = "Doğrulama Başarısız";
+"email_associated_with_defferent_key" = "Bu e-posta farklı bir anahtar ile ilişkili.";
+"key_expired" = "Anahtarın Süresi Doldu";
+"license_expired" = "Lisansın Süresi Doldu";
+"license_expired_disc" = "Lisans süreniz doldu. Yenileyin.";
+"license_verification_failed" = "Lisans Doğrulama Başarısız";
+"no_internet" = "İnternet Yok";
+"no_internet_disc" = "Doğrulama için internet bağlantısı gereklidir.";
+"license_disc" = "Girilen lisans anahtarı geçerli değil.";
+
+/* other stuff */
