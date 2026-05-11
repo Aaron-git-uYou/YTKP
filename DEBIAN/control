@@ -1,6 +1,6 @@
 Package: me.ikghd.ytkplus
 Name: YTKPlus
-Version: 5.3
+Version: 5.3.2
 Architecture: iphoneos-arm64
 Maintainer: ikarwan
 Depends: mobilesubstrate | substitute | ellekit
