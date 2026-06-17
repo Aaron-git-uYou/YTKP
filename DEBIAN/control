@@ -3,5 +3,5 @@ Name: YTKPlus
 Version: 5.6.1
 Architecture: iphoneos-arm64
 Maintainer: ikarwan
-Depends: mobilesubstrate | substitute | ellekit
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
 Description: YTKPlus crack by @itzzace0
