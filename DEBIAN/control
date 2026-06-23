@@ -1,6 +1,6 @@
 Package: me.ikghd.ytkplus
 Name: YTKPlus
-Version: 5.6.1
+Version: 5.7.2
 Architecture: iphoneos-arm64
 Maintainer: ikarwan
 Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
